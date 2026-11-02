@@ -1,0 +1,1926 @@
+#hex	reg	kind(P=highway/state patrol,L=police/sheriff)	heli	type	owner
+a00137	N1NJ	P	1	Agusta Aw-139	State Of New Jersey
+a00196	N1SD	L	1	Aerospatiale As-350 Ecureuil	Pinellas Co. Sheriff
+a001a0	N1SP	P	1	Bell 429 Globalranger	State Of Delaware
+a002a3	N10CX	L	0	Cessna  206 Stationair	Alameda Co. Sheriff
+a003f9	N10SP	P	1	Bell 206 Jetranger	State Of Kentucky
+a004cd	N100B	L	0	Cessna 201 Centurion	Marshall Xavier T
+a00504	N100DE	L	1	Bell 206 Jetranger	Marshall Co. Sheriff Dept
+a00534	N100FC	L	0	C402	Florence Co. Sheriff
+a00650	N100SM	P	0		Missouri State HP
+a00692	N100VC	L	0		Victoria Co. Sheriff
+a00904	N101GC	L	0	Sonex Aircraft Sonex	Marshall Sean C
+a00928	N101HP	P	0		Dept California HP
+a009b4	N101PD	L	0		Flowood PD
+a00a21	N101TN	L	0	C208	Hillsborough Co. Sheriff
+a00a25	N101TS	L	0	Cessna 208 Caravan	Hillsborough Co. Sheriff
+a00cdf	N102HP	P	0		California HP
+a00d2a	N102LP	P	0	Cessna Tr182 Turbo Skylane Rg	Washington SP
+a00f71	N1027B	L	0	Piper Pa-28-140/150/160/180	Marshall Loraine
+a00fa3	N1028S	L	1	Bell 407	St Johns Co. Sheriff
+a00ff1	N103AZ	L	0	Typhoon Q500	Salt River PD
+a010af	N103JP	L	1	Bell 407	City Of Jacksonville Sheriff
+a0127d	N1032F	L	1	Bell 206 Jetranger	Washoe Co. Sheriff
+a014b1	N104MP	L	0		Maitland PD
+a0175f	N105AZ	L	0	Breeze	Salt River PD
+a0178a	N105CS	L	0		Caddo Parish Sheriff'S Dept
+a01868	N105MP	L	0		Maitland PD
+a0186d	N105MU	L	0	Cirrus Sr-20	Marshall University
+a018e5	N105SP	P	0	Cessna R182 Skylane Rg	Dept Emergency Svcs & Public
+a018e7	N105SR	L	0		Salt River PD
+a01b27	N106BR	L	0	Motorglider	Marshall Michael A
+a01c24	N106MU	L	0	Cirrus Sr-20	Marshall University
+a01d92	N10610	L	0		Shelbyville Police Dep
+a01fdb	N107MU	L	0	Cirrus Sr-20	Marshall University
+a02053	N107SP	P	0	Cessna R182 Skylane Rg	Dept Emergency Svc & Public 
+a022ab	N108CN	L	0		Pasco Sheriff
+a02400	N108SD	L	0		Riverside Co. Sheriffs
+a0240a	N108SP	L	0	Cessna 182 Skylane	Dale Co. Sheriff
+a02468	N108WH	L	0	Stinson 108 Voyager	Marshall Robert L
+a02566	N1084X	L	1	Bell 206 Jetranger	Jefferson Co. Sheriff
+a02598	N1086B	P	1	R44	State Of Alaska
+a0263f	N109BC	L	1	Airbus Helicopters Ec-135/635	Broward Co. Sheriff
+a026e0	N109HP	P	0	Cessna 208 Caravan	Florida HP
+a028c4	N1092C	P	1	R44	State Of Alaska Dept Public 
+a02b6e	N11SD	L	0	Cirrus Sr-22	Harris Co. Sheriff
+a02b78	N11SP	P	1	Bell 407	State Of New York
+a02cb3	N110FC	L	1	Bell 206 Jetranger	Brevard Co. Sheriff
+a02dc7	N110SD	L	1	Bell Uh-1 Huey	Pinal Co. Sheriff Dept
+a030c3	N111JS	L	1	Bell 206 Jetranger	Livingston Parish Sheriff De
+a0314b	N111QC	P	0		Delaware State Police
+a03188	N111SP	P	1	Bell 206 Jetranger	State Of Michigan
+a0340c	N112EG	L	1	B06	Alachua Co. Sheriff
+a034c2	N112MP	L	0		Mesa PD
+a0353f	N112SP	P	0	Cessna Tr182 Turbo Skylane Rg	Minnesota Dept Public Safety
+a03793	N113CJ	L	0	Cessna 182 Skylane	Marshall Joshua
+a03815	N113HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio
+a038a1	N113PD	L	1	Bell 206 Jetranger	Brevard Co. Sheriff Office
+a039f7	N1132A	L	0		Alachua Co. Sheriff
+a03a07	N1132S	L	0		Alachua Co. Sheriff
+a03a8c	N1136K	L	0	Mavic Pro Platinum	Scottsdale PD
+a03af7	N1139M	L	0	Cessna 182 Skylane	Marshall J B
+a03b59	N114CZ	P	0	C182	Minnesota Dept Public Safety
+a03c30	N114MP	L	0		Mesa PD
+a03c58	N114PD	L	0		Omaha PD
+a03cad	N114SP	P	0	Cessna R182 Skylane Rg	Minnesota SP Aviation
+a03e97	N1148Z	L	1	Bell 206 Jetranger	Osceola Co. Sheriff
+a03fe7	N115MP	L	0		Mesa PD
+a03feb	N115MT	L	0		Peter Marshall
+a0400f	N115PD	L	0	Matrice 300 Rtk	Salt River PD
+a04064	N115SP	P	0	Cirrus Sr-22	Minnesota SP
+a041b6	N1154M	L	0	Mosquito Xe 285	Marshall John M
+a0439e	N116MP	P	0		Missouri State HP
+a043c6	N116PD	L	0		Salt River PD
+a0441b	N116SP	P	0		Delaware State Police
+a046c3	N117FT	L	1	Bell 206 Jetranger	La Paz Co Sheriffs Dept
+a04742	N117LV	L	0		Las Vegas Metropolitan PD
+a04755	N117MP	L	0		Mesa PD
+a049fc	N118AS	L	0		Adams Co. Sheriff
+a04a1e	N118CA	L	0	Piper Pa-11 Cub Special	Police Science Institute Inc
+a04b0c	N118MP	L	0		Mesa PD
+a04b7f	N118SD	L	1	Bell 206 Jetranger	Pinal Co. Sheriff
+a04b89	N118SP	P	1	Bell 407	Minnesota SP
+a04db3	N119AS	L	0		Adams Co. Sheriff
+a04ec3	N119MP	L	0		Mesa PD
+a04ee5	N119NY	L	1	Agusta Aw-119 Koala	City Of New York
+a05216	N12HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio
+a05293	N12NP	L	1	Bell 206 Jetranger	City Of Newark
+a052f7	N12SP	P	1	Bell 430	New York State Police
+a053e1	N120BX	L	1	Bell 206 Jetranger	Baxter Co. Sheriffs Departme
+a054af	N120LC	L	0	Piper Pa-11 Cub Special	Markey Suzanne M
+a054f5	N120NY	L	1	Agusta Aw-119 Koala	City Of New York
+a05545	N120SC	L	0		St Charles Parish Sheriff
+a0584c	N121KB	L	0		Tomball PD
+a05868	N121LE	L	0		Osceola Co Sheriff Office
+a05a94	N1216A	L	0		Marshall Robinson
+a05f83	N123GX	L	0		Palm Beach Co. Sheriff
+a06006	N123NC	P	1	Bell 206 Jetranger	North Carolina State HP
+a06062	N123RV	L	0	Vans Rv-4	Marshall Jerry D
+a0642c	N124SP	P	0	Cirrus Sf-50 Vision	Minnesota SP
+a0644d	N124TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a06653	N125AP	L	1	Aerospatiale As-350 Ecureuil	Austin PD
+a0669e	N125DP	L	0	Pilatus Pc-24	Dallas PD.
+a0677d	N125NM	L	0		Albuquerque PD
+a067e3	N125SP	P	0		Indiana State Police
+a06aae	N126HC	L	0		Henry Co. Sheriff
+a06cce	N1263S	L	0	Cessna 182 Skylane	Alabama Law Enforcement Agen
+a07145	N12789	L	0	Cessna 172 Skyhawk	Marshall Frederic J
+a07642	N129MP	L	0		Mesa PD
+a076bf	N129SP	P	1	Bell Uh-1 Huey	New York State Police
+a07834	N1295M	L	0		St Johns Co. Sheriff
+a07a6c	N13SD	L	1	Hughes 500	Snohomish Co. Sheriff
+a07a76	N13SP	P	0	Cessna 172 Skyhawk	New York State Police
+a07c86	N130PR	L	0	Beech 58 Baron	Puerto Rico PD
+a07ee7	N131	L	0	American Aa-1	Ekstrand Marshall
+a0807c	N131SD	L	1	Bell 206 Jetranger	Benton Co. Sheriffs Departme
+a083c0	N132MP	L	0		Mesa PD
+a0843d	N132SP	P	0		Indiana State Police
+a08577	N1323Y	P	0	Cessna 208 Caravan	State Of Alaska
+a085fd	N1327S	L	0	Cessna 182 Skylane	Fields Leif D
+a08ba1	N134SD	L	1	Bell 206 Jetranger	Benton Co. Sheriff
+a08ee3	N135MM	L	0		Martin Marshall D
+a0944d	N1363S	L	0	Cessna 182 Skylane	Alabama Law Enforcement Agen
+a095ef	N137HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a0967b	N137PD	L	1	Bell 407	Puerto Rico PD
+a096c2	N137S	L	0	Vans Rv-6	Marshall James W
+a09a32	N138PD	L	1	Bell 407	Puerto Rico PD
+a09c14	N1386A	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a09cfc	N139DS	L	0		Volusia Sheriff
+a09d5d	N139HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a09de9	N139PD	L	1	Bell 407	Puerto Rico PD
+a09f0f	N1390Y	L	0	Cessna 172 Skyhawk	Marshall Greg J
+a0a1eb	N14SD	L	1	Bell Uh-1 Huey	Lake Co. Sheriff
+a0a36d	N140HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a0a7b0	N141PD	L	0		City Of Atlanta Police
+a0abb1	N142SC	L	1	Hughes 500	Spartanburg Co. Sheriff
+a0abbc	N142SP	P	0		Georgia SP
+a0acf4	N1423W	L	0	Cessna T206 Turbo Stationair	Maricopa Co. Sheriff
+a0b32a	N144SP	P	0		Georgia SP
+a0b59f	N145DS	L	0		Volusia Sheriff
+a0b5a2	N145DV	L	1	Airbus Helicopters Ec-145	Las Vegas Metropolitan PD
+a0b651	N145LV	L	0		Las Vegas Metropolitan PD
+a0b693	N145PL	P	0	Cessna T206 Turbo Stationair	State Of Alaska
+a0b702	N145TX	P	1	Airbus Helicopters Ec-145	Texas Dept Public Safety
+a0b721	N145VC	L	0		Ventura Co. Sheriffs Departm
+a0bbd5	N14631	L	0	Gyro	Goodknight Marshall K
+a0bdfa	N147PD	L	0		Puerto Rico PD
+a0bf9a	N1474E	L	0	Cessna 172 Skyhawk	Suffolk Co. Police Pilots As
+a0c1b1	N148PD	L	0		City Of San Jose-PD
+a0cb78	N150PD	L	0		Anne Arundel Co. PD
+a0cbfb	N150UK	L	0	Cessna 150	Marshall Christoper E
+a0cca7	N15007	L	0	Piper Pa-28R-180/200/201	Marshall Co. Flying Club Inc
+a0cea3	N151HP	P	1	Bell 206 Jetranger	Montana HP
+a0cf2f	N151PD	L	0		Anne Arundel Country Police
+a0cf3b	N151PR	L	1	Bell 206 Jetranger	Citrus Co. Sheriff
+a0d0d5	N1514L	L	0		City Of Dallas PD
+a0d0f8	N1515L	L	0		City Of Dallas PD
+a0d2e6	N152PD	L	0		Salt River PD
+a0d611	N153HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a0d69d	N153PD	L	1	Bell 206 Jetranger	Anne Arundel Co. PD
+a0d6e8	N153SD	L	1	Bell 206 Jetranger	Jackson Co. Sheriffs Dept
+a0d713	N153TX	P	0		Texas Dept Public Safety
+a0da53	N154PC	L	0	Piper Pa-23	Putnam Co. Sheriff
+a0da54	N154PD	L	1	Bell 206 Jetranger	Anne Arundel Co. PD
+a0da9c	N154SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0db9c	N1541X	L	0	Piper Pa-32	Sheffer Marshall A
+a0dcda	N155AZ	L	0	Cessna 182 Skylane	Coconino Co. Sheriff
+a0de0b	N155PD	L	0		Anne Arundel Co. PD
+a0de53	N155SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0de56	N155SD	L	1	Bell 206 Jetranger	Jackson Co. Sheriffs Dept
+a0e07c	N156AC	L	0		Ak-Chin PD
+a0e136	N156HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a0e1c2	N156PD	L	0		Anne Arundel Co. PD
+a0e579	N157PD	L	0		Puerto Rico PD
+a0e5c1	N157SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0e5ce	N157SP	P	0		Louisiana State Police
+a0e760	N1576F	L	1	Hughes 500	City Of Houston PD
+a0e834	N158DB	L	1	Bell 429 Globalranger	Palm Beach Co. Sheriff
+a0e899	N158HC	L	0		Henry Co. Sheriff
+a0e8e6	N158LE	L	1	Bell 206 Jetranger	Collier Co. Sheriff
+a0e93d	N158PS	L	1	Bell 206 Jetranger	Greenville Co. Sheriff
+a0e978	N158SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0e985	N158SP	P	0		Louisiana State Police
+a0ec12	N159ER	L	0	Piper Pa-28-140/150/160/180	Tetterton Marshall O
+a0ec5b	N159HP	P	0	Gippsaero Ga-8 Airvan	California HP
+a0ed2f	N159SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0ef77	N16BJ	L	0	Piper Pa-32R-300/301/301T	Marshall John Robert
+a0f0f3	N16SP	P	1	Bell 407	State Of New York
+a0f33f	N160SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a0f9d9	N162HP	P	0		California HP
+a0fabe	N162ST	P	0	Beech 90 King Air	State Of Michigan
+a0ff28	N163ZX	L	0	Mxl Ii	Marshall Travis R
+a1016b	N164K	L	1	Bell 206 Jetranger	Memphis PD
+a10aec	N1664R	P	0	Cessna R182 Skylane Rg	State Of Montana
+a10bb2	N167AC	L	1	Bell 206 Jetranger	Alachua Co. Sheriff
+a10c6c	N167HP	P	0		California HP
+a10cf8	N167PD	L	0		Puerto Rico PD
+a10e1e	N1670Y	L	0	Cessna 172 Skyhawk	Marshall Gregory A
+a1103a	N168JM	L	0	Bellanca 7 Citabria	Marshall John A
+a11466	N169PD	L	0		Salt River PD
+a11791	N17HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio Dept Of Public
+a11872	N17SP	P	1	Bell 407	New York State Police
+a11b2f	N170WP	L	0		Hennepin Co. Sheriff
+a11c69	N1706T	L	0	Piper Pa-28-140/150/160/180	Marshall Loraine
+a11de3	N171LE	L	0	Sky Ranger	Montgomery Co. Sheriff
+a11e2d	N171PD	L	1	Airbus Helicopters Ec-145	Suffolk Co. PD
+a11e75	N171SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a11e82	N171SP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Iowa - Iowa SP
+a12152	N172HH	L	0		Jefferson Co. Sheriff
+a121a0	N172LL	L	0		Jefferson Co. Sheriff
+a1222f	N172SD	L	0		Sacramento Co. Sheriff Depar
+a1228a	N172VV	L	0		Jefferson Co. Sheriff
+a122f2	N172ZZ	L	0		Jefferson Co. Sheriff
+a123f3	N1727L	P	0	Cessna T206 Turbo Stationair	Texas Dept Public Safety
+a1250f	N173HP	P	0		California HP
+a125e3	N173SA	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a127e1	N17386	P	0	Cessna T206 Turbo Stationair	Oregon State Police
+a1299c	N174SC	L	1	Aerospatiale As-350 Ecureuil	Seminole Co. Sheriff
+a129a7	N174SP	P	1	Bell Uh-1 Huey	New York State Police
+a129ab	N174ST	P	0	T206	Michigan State Police
+a12ad6	N1743M	L	0		Dias Marshall
+a12b3e	N1746L	P	0	Cessna T206 Turbo Stationair	Nebraska SP
+a12c41	N175FD	L	0		Seminole Co. Sheriff
+a12c7d	N175HP	P	0		California HP
+a12c8b	N175JC	L	0	Tbm9	Sacramento Co. Sheriff
+a12d53	N175SC	L	1	Aerospatiale As-350 Ecureuil	Seminole Co. Sheriff
+a12d54	N175SD	L	0		Sacramento Co. Sheriff Depar
+a1310a	N176SC	L	1	Aerospatiale As-350 Ecureuil	Seminole Co. Sheriff
+a13115	N176SP	P	0		West Virginia State Police
+a13477	N177PD	L	0		Puerto Rico PD
+a134cc	N177SP	P	0		Division Of Public Safety/W 
+a1382e	N178PD	L	0		Salt River PD
+a13883	N178SP	P	0		Division Of Public Safety/W 
+a13be5	N179PD	L	0		Salt River PD
+a13ed3	N18FC	L	1	Bell 206 Jetranger	Florence Co. Sheriff Departm
+a13f10	N18HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio
+a13ff1	N18SP	P	1	Bell 407	State Of New York
+a1423f	N180SC	L	1	Bell 206 Jetranger	St Clair Co. Sheriffs Dept
+a14293	N180VM	L	0	Maule M-4	Marshall Glen E
+a1441c	N1808	L	1	Hughes 500	Gwinnett Co. PD
+a145b4	N181PM	L	0		Peter Marshall
+a145f7	N181SD	L	1	Bell Uh-1 Huey	Orange Co. Sheriffs Departme
+a1485f	N182CU	L	0	Cessna 182 Skylane	Alabama Law Enforcement Agen
+a14892	N182EV	L	0	Evektor Sportstar	Marshall Timothy W
+a14962	N182PC	L	0	Cessna 182 Skylane	Pickens Co. Sheriff
+a149e6	N182UK	L	0	Cessna 182 Skylane	Marshall Christopher E
+a14b70	N1827J	L	0		Jackson Co. Sheriff
+a14d65	N183SD	L	1	Aerospatiale As-350 Ecureuil	Orange Co. Sheriff'S Departm
+a14dc8	N183WC	L	0		Washington Co. Sheriff'S Off
+a154d3	N185SD	L	1	Aerospatiale As-350 Ecureuil	Orange Co. Sheriff'S Departm
+a155ac	N1850W	L	1	Bell 206 Jetranger	Santa Barbara Co. Sheriffs D
+a155bb	N1851A	L	0	Piper Pa-31-300/310/325/350/42	Placer Co. Sheriffs Departme
+a155c1	N1851G	L	0		Placer Co. Sheriff
+a155e2	N1852E	L	0	Cessna 310	Marshall Dennis Ray Jr
+a157b3	N186HP	P	0		California HP
+a1588a	N186SD	L	1	Bell Uh-1 Huey	Orange Co. Sheriffs Dept
+a15a0e	N1865S	L	0	Cessna 310	Pima Co. Board Of Supervisor
+a15bf6	N187PD	L	0		Salt River PD
+a15d4b	N1872	L	1	B06	Putnam Co. Sheriff'S Ofice
+a15e54	N1879V	L	0	Cessna 140	Anderson Marshall C
+a15f21	N188HP	P	0		California HP
+a1611a	N1882Z	L	0	Cessna 201 Centurion	Constable William H
+a162e6	N189JC	L	0	Cessna T206 Turbo Stationair	Tulare Co. Sheriff
+a1668f	N19HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio Dept Of Public
+a16770	N19SP	P	1	Bell Uh-1 Huey	New York State Police
+a168e8	N190HP	P	0		Okla Dept Of Public Safety O
+a16a18	N190VT	L	0	Cessna 190	Marshall Rodney E
+a16aed	N1903A	L	1	Bell 407	Dale Co. Sheriff
+a16bc4	N1909F	L	0	Cessna 172 Skyhawk	Marshal Group Llc
+a16c52	N191EM	P	0		North Carolina Dept Public S
+a16d1e	N191NR	L	1	Aerospatiale As-350 Ecureuil	Maryland Natural Resources P
+a16da1	N191TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Of Public Safety
+a16e5d	N1911	L	1	Bell 206 Jetranger	Washoe Co. Sheriff
+a17009	N192EM	P	0		North Carolina Dept Public S
+a17056	N192HP	P	0		California HP
+a17245	N1922P	L	0	Pa22	Ney N Marshall
+a17385	N193CC	L	0		Canadian Co. Sheriff
+a173c0	N193EM	P	0		North Carolina Dept Public S
+a17499	N193PD	L	0		Salt River PD
+a174ee	N193SP	P	0	Cessna 172 Skyhawk	Indiana State Police
+a1764a	N1934X	L	0	Cessna 182 Skylane	Marshall Michael R
+a17777	N194EM	P	0		North Carolina Dept Public S
+a17850	N194PD	L	0		Salt River PD
+a17e66	N1959W	P	0		Washington SP Aviation
+a17e78	N196AC	L	0		Ak-Chin PD
+a180e6	N19600	L	0	Cessna 172 Skyhawk	Corona Police Aero Squadron 
+a180fd	N1961N	L	0	Cessna 140	Marshall Charles
+a182ab	N197FB	L	0		City Of Phoenix PD
+a18375	N197PD	L	0		City Of Colorado Springs PD
+a18618	N198CC	L	1	Bell 206 Jetranger	Coffee Co. Sheriff
+a186a0	N198HP	P	0		California HP
+a189cf	N199CC	L	1	Bell 206 Jetranger	Coffee Co. Sheriff Office
+a18e86	N2NJ	P	1	Bell 206 Jetranger	New Jersey State Police
+a18e90	N2NU	L	0	Thorp Tiger	Ekstrand Marshall C
+a18ee5	N2SD	L	1	Aerospatiale As-350 Ecureuil	Pinellas Co. Sheriff
+a19148	N20SP	P	1	Bell 430	New York State Police
+a192c0	N200HP	P	0	Cessna T206 Turbo Stationair	Oklahoma Dept Public Safety
+a19346	N200NY	P	0	Beech 200 Super King Air	New York State Police
+a19361	N200Q	L	0	Beech 33 Bonanza	Bluth Marshall S
+a196ff	N201P	L	0	Mooney M-20	Marshall Christopher R
+a19758	N201SP	P	0	Cessna T182 Turbo Skylane	Colorado SP
+a19a2e	N202HP	P	0	Cessna 208 Caravan	California HP
+a19aba	N202PD	L	0		New York City Police Avn Uni
+a19af4	N202RM	L	0		Madisonville PD
+a19b0f	N202SP	P	0	Cessna T182 Turbo Skylane	Colorado SP
+a19b20	N202TF	L	0		Twin Falls Co. Sheriff
+a19de5	N203HP	P	0		Dept California HP
+a19e49	N203MP	L	0	Mavic 2 Pro	City Of Mesa PD
+a19e7e	N203PS	P	0		Alabama Dept Of Public Safet
+a19ec6	N203SP	P	0	Cessna T182 Turbo Skylane	Colorado SP
+a1a089	N2037V	L	0	Cessna 120	Marshall Rodney E
+a1a200	N204MP	L	0	Mavic 2 Enterp Dual	City Of Mesa PD/Aviation Dep
+a1a27d	N204SP	P	0	Cessna 340 Super	Colorado SP
+a1a528	N205FW	L	1	Bell Uh-1 Huey	Pasco Sheriff
+a1a595	N205LE	L	1	Bell Uh-1 Huey	Collier Co. Sheriff
+a1a5df	N205PD	L	0		New York City Police Avn Uni
+a1a62a	N205SD	L	1	Bell Uh-1 Huey	Ventura Co. Sheriffs Departm
+a1a674	N205VC	L	1	Bell Uh-1 Huey	Ventura Co. Sheriffs Departm
+a1a7c4	N2056D	L	0	Beech 35 Bonanza	Bickert Marshal A
+a1a88f	N206CR	L	0		Metro-Dade PD/Aviation Unit
+a1a91a	N206JE	L	0		Metro-Dade PD/Aviation Unit
+a1a95c	N206LW	L	1	Bell 206 Jetranger	Stanislaus Co. Sheriffs Depa
+a1aa2b	N206VC	L	1	Bell 206 Jetranger	Ventura Co. Sheriff'S Dept
+a1aaed	N2062B	L	0	Beech 35 Bonanza	Walker Marshall E
+a1acb5	N207HB	P	0	Beech 200 Super King Air	State Of Washington
+a1ae80	N2071A	L	1	B06	Benton Co. Sheriff
+a1af93	N20786	P	0	Cessna 185 Skywagon	State Of Alaska
+a1b0ba	N208LE	L	0		Collier Co. Sheriff
+a1b4bb	N209PD	L	0	Gippsaero Ga-8 Airvan	Modesto PD
+a1b5fd	N2091R	L	1	Hughes 500	City Of El Paso PD
+a1bb5e	N210VA	P	0	Daher Kodiak 100	Commonwealth Of Virginia
+a1bed4	N211SL	L	1	Robinson R-66	Polk Co. Sheriff
+a1c0aa	N2118A	P	0	Cessna T206 Turbo Stationair	South Dakota HP
+a1c178	N212FL	L	1	Bell 206 Jetranger	Osceola Co. Sheriff
+a1c246	N212PS	P	0		Alabama Dept Of Public Safet
+a1c4f4	N213DB	L	0	Beech 200 Super King Air	Marshall Air Systems Inc
+a1c5a4	N213LC	L	1	Bell 206 Jetranger	Lake Co. Sheriff
+a1c5c0	N213MF	L	0		Los Angeles PD Air Support D
+a1c95b	N214LC	L	1	Bell 206 Jetranger	Lake Co. Sheriff
+a1cbc9	N21475	L	0	Cessna 182 Skylane	Austin PD
+a1cc9d	N215FL	L	0		Florida Dept Of Law Enforcem
+a1cd12	N215LC	L	1	Bell 206 Jetranger	Lake Co. Sheriff
+a1cda8	N215SC	L	1	Bell 206 Jetranger	Spokane Co. Sheriff
+a1cdd4	N215TX	P	0	Cessna 208 Caravan	Texas Dept Of Public Safety
+a1cdf3	N215VC	L	0		Ventura Co. Sheriffs Departm
+a1d054	N216FL	L	0		Florida Dept Of Law Enforcem
+a1d296	N2163J	L	0	Cessna Tr182 Turbo Skylane Rg	Portland Police Bureau
+a1d75b	N218BH	L	1	Bell 407	Osceola Co. Sheriff
+a1d7b9	N218FB	L	1	Bell 206 Jetranger	Fort Bend Co. Sheriff
+a1d9c2	N2181N	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Oregon
+a1da3b	N21844	L	1	Bell 412	Los Angeles PD Air Support D
+a1db12	N219BH	L	1	Bell 407	Osceola Co. Sheriff
+a1dbec	N219LA	L	0		Los Angeles PD
+a1dc12	N219MP	L	0	Mavic 2 Pro	City Of Mesa PD/Aviation Dep
+a1dcb0	N219TX	P	0	Pilatus Pc-12	Texas Dept Public Safety
+a1e24a	N220PD	L	1	Hughes 500	City Of Oakland
+a1e29f	N220SP	P	1	Bell 206 Jetranger	Kentucky State Police
+a1e3d1	N2203Q	L	0	Firefly 8B-15	Gower Marshall L
+a1ea8a	N222XP	L	0	Panther Ls	Marshall Greg J
+a1ecaf	N223FM	P	1	B407	Texas Dept Public Safety
+a1ece3	N223HP	P	0		Dept California HP
+a1ef84	N2237S	P	0	Cessna T182 Turbo Skylane	Oregon State Police
+a1f0c0	N224KB	L	1	Bell 206 Jetranger	Pasadena PD
+a1f17b	N224SP	P	1	Bell Uh-1 Huey	New York State Police Aviati
+a1f3bd	N225BR	L	0		East Baton Rouge Sheriff
+a1f496	N225LH	L	0	Beech 200 Super King Air	Alabama Law Enforcement Agen
+a1f4b5	N225MP	L	0	Mavic Air	City Of Mesa PD/Public Infor
+a1f4dd	N225PD	L	1	Bell 206 Jetranger	Baton Rouge PD
+a1f894	N226PD	L	1	Aerospatiale As-350 Ecureuil	Anaheim PD
+a1f8fb	N226TG	L	0	Phantom 3 Profession	Tom Green Co. Sheriff
+a1fc32	N227ND	L	1	As50	Hillsborough Co. Sheriff
+a1fca0	N227SP	P	0	Cirrus Sr-22	Iowa SP
+a1fcc1	N227TX	P	1	As50	Texas Dept Public Safety
+a20129	N2280Z	L	0		Town Of West Seneca PD
+a2036f	N229LE	L	0		Collier Co. Sheriff
+a20403	N229SC	L	0		St Charles Parish Sheriff
+a208d5	N230DK	P	1	B407	Georgia Dept Public Safety
+a2099b	N230MH	L	1	B06	Livingston Parish Sheriff
+a20d51	N231MG	L	0	Mooney M-20	Richard F Marshall Inc
+a20dd5	N231SP	P	0	Cessna Tr182 Turbo Skylane Rg	Iowa SP
+a21095	N232GS	L	1	Bell 206 Jetranger	Greenville Co. Sheriff
+a2144c	N233GS	L	0	Cessna 182 Skylane	Greenville Co. Sheriff
+a2147b	N233JP	L	1	Bell Uh-1 Huey	Washoe Co. Sheriff Dept
+a21674	N2333P	L	0	Piper Pa-38 Tomahawk	Huffman Marshal
+a21676	N2333R	L	0	Piper Pa-28-140/150/160/180	Sightler Marshal
+a217dc	N234FC	L	0		Faulkner Co. Sheriffs Depart
+a21819	N234HP	P	0		Dept Of California HP
+a21bba	N235GS	L	0		Greenville Co. Sheriff
+a21f4a	N236FC	L	0		Faulkner Co. Sheriffs Depart
+a21fc5	N236LA	L	0		Los Angleles PD
+a2237c	N237LA	L	0		Los Angleles PD
+a22569	N2374D	L	0		Houston Police Air Support D
+a2256b	N2374F	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a22733	N238LA	L	0		Los Angleles PD
+a2275e	N238MU	L	0	Sr20	Marshall University
+a22904	N2383L	P	0	Cessna T206 Turbo Stationair	Nebraska SP
+a22b10	N239MP	L	0	Mavic Mini	Mesa PD
+a22b45	N239PS	L	1	Bell 206 Jetranger	Pasadena PD
+a22de3	N24CL	L	0	Asw-20Cl	Marshall Michael A
+a22e63	N24HP	L	0	Cessna 182 Skylane	Yolo Co./Yolo Co. Sheriff
+a23148	N240PD	L	1	Bell 505 Jetranger X	City Of Omaha
+a23268	N2400S	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a2334f	N2407C	L	0		Collier Co. Sheriff
+a234dc	N241MU	L	0	Sr20	Marshall University
+a23893	N242MU	L	0	Sr20	Marshall University
+a23c21	N243LC	L	1	Bell 206 Jetranger	Limestone Co. Sheriff Depart
+a23c45	N243MP	L	0		Mesa PD
+a23c4a	N243MU	L	0	Sr20	Marshall University
+a23ce3	N243TX	P	0	Pilatus Pc-12	Texas Dept Public Safety
+a23fd8	N244LC	L	1	Bell 206 Jetranger	Limestone Co. Sheriff Dept
+a24001	N244MU	L	0	Sr20	Marshall University
+a24090	N244TM	L	0		Team Marshall
+a2421b	N2446X	P	0	Cessna  206 Stationair	Washington SP
+a24344	N245HC	L	0	Pc12	Hillsborough Co. Sheriff
+a2467e	N246CC	P	0	Cessna T206 Turbo Stationair	Alaska Dept Public Safety
+a24a7f	N247FB	L	0		Fort Bend Co. Sheriffs Depar
+a24abd	N247HP	P	0	C208	California HP
+a25543	N25BE	L	0	Acro 1	Ekstrand Marshall C
+a255e2	N25HP	P	0	Cessna Tr182 Turbo Skylane Rg	Florida HP
+a257be	N250CP	L	1	Bell 206 Jetranger	Cullman PD
+a25f54	N252ED	L	0		Florida Dept Law Enforcement
+a25f74	N252FL	L	0	Beechcraft Super King Air 350	Florida Dept Law Enforcement
+a26184	N25214	L	0	Firefly 7-15	Gower Marshall L
+a26a38	N255BP	L	1	Bell 206 Jetranger	Victoria Co. Sheriff
+a26ba5	N255SD	L	1	Airbus Helicopters Ec-120	Sacramento Co. Sheriff
+a274ad	N2576D	L	0	Cessna 170	Marshall Jerry J
+a27635	N258LE	L	1	Bell 206 Jetranger	Collier Co. Sheriff
+a276b0	N258RC	L	1	Bell 206 Jetranger	Martin Co. Sheriff
+a2791b	N259BW	L	0	Cessna T206 Turbo Stationair	Pinal Co. Sheriff
+a2796c	N259FB	L	1	Bell 206 Jetranger	Fort Bend Co. Sheriff
+a27e80	N26VA	P	1	Bell 407	Virginia State Police
+a27ffc	N260LE	L	0		Dale Co. Sheriff Office
+a28012	N260MB	L	0		City Of Myrtle Beach PD
+a282e6	N261C	L	0	Stinson 108 Voyager	Marshall Bob L
+a283b3	N261LE	L	0		Dale Co. Sheriff
+a285ed	N2616Q	L	0	Cessna 182 Skylane	Sutton Marshall T
+a28676	N262AL	L	0	Cessna R182 Skylane Rg	Dale Co. Sheriff
+a2876a	N262LE	L	1	Bell 206 Jetranger	Dale Co Sheriffs Dept
+a287ff	N262SD	L	1	Hughes 500	Cullman PD
+a288ee	N2621H	L	0	Sgs 2-33A	Marshall Soaring Club
+a2898d	N26252	L	0		Bristol Va PD
+a28adf	N263HP	P	0	C208	California HP
+a28b21	N263LE	L	1	Bell 206 Jetranger	Dale Co. Sheriff
+a28b9c	N263RC	L	0	Cessna T206 Turbo Stationair	Richland Co. Sheriffs Depart
+a28bb6	N263SD	L	0		Dale Co. Sheriff Office
+a28c2d	N263WY	L	0	Christen Husky	Marshall Laird Jr
+a28ed8	N264LE	L	1	Bell 206 Jetranger	Dale Co. Sheriff
+a28f6c	N264SC	L	1	Bell 206 Jetranger	St Clair Co. Sheriffs Depart
+a291ac	N265BC	L	1	Ec45	Broward Co. Sheriff
+a2928f	N265LE	L	0		Dale Co. Sheriff
+a292ea	N265PW	L	0	Gippsaero Ga-8 Airvan	San Bernardino Co. Sheriff'S
+a29324	N265SD	L	0		Dale Co. Sheriff Office
+a2945a	N2653J	L	0		Calcasieu Parish Police Jury
+a296db	N266SD	L	1	Airbus Helicopters Ec-120	Sacramento Co. Sheriffs Depa
+a299bb	N267HP	P	0	Cessna 172 Skyhawk	Florida HP
+a29cd1	N268BC	L	1	Ec45	Broward Co. Sheriff
+a29d03	N268DC	L	1	Bell 206 Jetranger	Dale Co. Sheriff
+a29d72	N268HP	P	0	T206	Florida HP
+a29e49	N268SD	L	0		Dale Co. Sheriff Office
+a2a17a	N269LV	L	0		Las Vegas Metropolitan PD
+a2a20a	N269SP	P	1	Bell Uh-1 Huey	Dept Public Safety
+a2a3cb	N2697T	L	0	Sr 5Xp	Marshall Gregg
+a2a40e	N2699Q	L	0		New Castle Co. PD
+a2a739	N270HP	P	0		Okla Dept Of Public Safety O
+a2a791	N270MB	L	0		City Of Myrtle Beach PD
+a2aacc	N271GC	L	0		Gallia Co. Sheriff
+a2ac9c	N2710S	L	0	Piper Pa-28-140/150/160/180	Marshall Loraine
+a2acb5	N2711G	L	0	Cessna 182 Skylane	Alexander Marshall J
+a2b0b0	N2723E	L	0	Cessna 172 Skyhawk	Marshals Technology Llc
+a2b25e	N273HP	P	0	C208	California HP
+a2b331	N273S	P	1	Robinson R-44 Raven	State Of Alaska Dept Public 
+a2b98c	N275F	P	0	Cessna T206 Turbo Stationair	State Of Alaska Dept Public 
+a2c211	N277SD	L	1	Airbus Helicopters Ec-120	Sacramento Co. Sheriff
+a2c32b	N2772R	L	0	Flightstar Iisc	Butler Marshall B
+a2c518	N278KC	L	1	Hughes 500	Cullman PD
+a2cd39	N28SG	L	0	Beech 35 Bonanza	Marshall Robert W
+a2cd7e	N28VA	P	1	Bell 412	Virginia State Police
+a2d1bf	N281AN	L	0	Dron	New Castle Co. PD
+a2d56c	N282AC	L	0		Ak-Chin PD
+a2d63f	N282JP	L	0	C182	Marshalls Sanitation Service
+a2d68a	N282MP	L	1	Bell 206 Jetranger	Pasco Co. Sheriff
+a2d6fc	N282SC	L	0		St Chalres Parish Sheriff
+a2d707	N282SP	P	1	Bell 206 Jetranger	Kentucky State Police
+a2d88b	N28252	L	0	Boeing 737-800	U S Marshall Serv Justice & 
+a2dabe	N283SP	P	1	Bell 206 Jetranger	Kentucky State Police
+a2dcda	N284AC	L	1	Bell 206 Jetranger	Alachua Co. Sheriff
+a2dd7f	N284GT	L	0		Grand Traverse Co. Sheriff
+a2ddf8	N284MP	L	1	Bell 206 Jetranger	Pasco Co. Sheriff
+a2de75	N284SP	P	1	B407	Kentucky State Police
+a2e0aa	N285BC	L	0		Broward Co. Sheriff
+a2e136	N285GT	L	0		Grand Traverse Co. Sheriff
+a2e1af	N285MP	P	0		Missouri State HP
+a2e22c	N285SP	P	1	B429	Kentucky State Police
+a2e461	N286BC	L	0		Broward Co. Sheriff
+a2e4ed	N286GT	L	0		Grand Traverse Co. Sheriff
+a2e522	N286JW	L	1	B06	Citrus Co. Sheriff
+a2e8a4	N287GT	L	0		Grand Traverse Co. Sheriff
+a2ec85	N288JK	L	1	Airbus Helicopters Ec-120	Co. Of Sacramento
+a2ed47	N288SD	L	0		Washington Co. Sheriff Depar
+a2f08b	N289MP	P	0		Missouri State HP
+a2f1e5	N2891	L	1	Bell 429 Globalranger	Sarasota Co. Sheriff
+a2f592	N290AZ	P	0	Mavic 2 Pro	State Of Arizona
+a2f637	N290HP	P	0		Okla Dept Of Public Safety O
+a2f949	N291AZ	P	0	Mavic 2 Pro	State Of Arizona
+a2f9ca	N291GC	L	0	Mavic 2 Pro	Gwinnett Co. PD
+a2fbd2	N2912C	L	0	Cessna  180 Skywagon	Marshalee Arizona Llc
+a2fd00	N292AZ	P	0	Mavic 2 Pro	State Of Arizona
+a300b7	N293AZ	P	0	Mavic 2 Pro	State Of Arizona
+a301a7	N293LP	L	0		South Kingstown PD
+a30825	N295AZ	P	0	Mavic 2 Pro	State Of Arizona
+a30842	N295CC	L	1	Bell 206 Jetranger	Henry Co. Sheriff
+a308cd	N295HS	L	1	Bell 206 Jetranger	Brevard Co. Sheriff
+a30956	N295PD	L	0		Clayton Co. PD
+a30bdc	N296AZ	P	0	Mavic 2 Pro	State Of Arizona
+a30bf9	N296CC	L	1	Bell 206 Jetranger	Clayton Co. PD
+a30d0d	N296PD	L	1	Aerospatiale As-350 Ecureuil	City Of Philadelphia
+a30f93	N297AZ	P	0	Mavic 2 Pro	State Of Arizona
+a31021	N297GR	L	1	Bell 206 Jetranger	Walker Co. Sheriff Dept
+a310c4	N297PD	L	1	Aerospatiale As-350 Ecureuil	City Of Philadelphia
+a3134a	N298AZ	P	0	Mavic 2 Pro	State Of Arizona
+a31367	N298CC	L	0		Clayton Co. PD
+a31369	N298CE	L	0	Mavic 2 Enterp Dual	City Of Edina Mn PD
+a313d8	N298GR	L	1	Bell 206 Jetranger	Walker Co. Sheriff Dept
+a31701	N299AZ	P	0	Mavic 2 Pro	State Of Arizona
+a3171e	N299CC	L	0		Clayton Co. PD
+a31744	N299DR	L	1	H500	Kings Co. Sheriff
+a3178f	N299GR	L	1	Bell 206 Jetranger	Walker Co. Sheriff Dept
+a317cd	N299KC	L	0	T206	Kings Co. Sheriff
+a31832	N299PD	L	0		Clayton Co. PD
+a31887	N299SP	P	0	Cessna T206 Turbo Stationair	North Dakota HP
+a31a6a	N2998S	L	1	Bell 206 Jetranger	Dale Co. Sheriff
+a31b83	N3KB	L	0	Piper Pa-28-140/150/160/180	Marshall Kevin L
+a31bd5	N3NJ	P	1	Agusta Aw-139	State Of New Jersey
+a31be9	N3PD	L	1	Airbus Helicopters Ec-145	Suffolk Co. PD
+a31e37	N30NT	L	1	Aerospatiale As-350 Ecureuil	City Of Ontario
+a31ed5	N30VA	P	1	Bell 407	Commonwealth Of Virginia
+a3209a	N300PC	L	1	Bell 206 Jetranger	Putnam Co. Sheriff'S Departm
+a320ab	N300PV	L	0	T600	Village Of Plover PD
+a32448	N301NU	L	0		Nasa Marshall Space Flight C
+a3249d	N301SD	L	1	Hughes 500	Harrison Co. Sheriffs Depart
+a326c3	N302AC	L	0		Ak-Chin PD
+a327ff	N302NU	L	0		Nasa Marshall Space Flight C
+a32b34	N303HP	P	0		North Carolina State HP
+a32bb6	N303NU	L	0		Nasa Marshall Space Flight C
+a32c0b	N303SD	L	0	C182	Harris Co. Sheriff
+a32e6c	N304CM	L	0	B763	Chadwick Marshall
+a32eeb	N304HP	P	0		Nc HP
+a32f4f	N304MP	L	1	As50	Miami-Dade Sheriff
+a32f6d	N304NU	L	0		Nasa Marshall Space Flight C
+a32f77	N304PD	L	1	Bell 206 Jetranger	City Of Tucson PD
+a32fc2	N304SD	L	1	Bell 206 Jetranger	Harrison Co. Sheriffs Depart
+a3323a	N305DK	P	0	Cessna  206 Stationair	Washington SP
+a33304	N305MM	L	0	Beech B36Tc Bonanza	Segal Marshall B
+a33306	N305MP	L	1	As50	Miami-Dade Sheriff
+a33324	N305NU	L	0		Nasa Marshall Space Flight C
+a3335f	N305RC	P	0	Cessna Tr182 Turbo Skylane Rg	Washington SP
+a33377	N305SB	L	1	Bell Uh-1 Huey	San Bernardino Co. Sheriffs 
+a3364d	N306HB	L	1	Bell 206 Jetranger	Wayne Co. Sheriff
+a336bd	N306MP	L	1	As50	Miami-Dade Sheriff
+a336db	N306NU	L	0		Nasa Marshall Space Flight C
+a336e5	N306PD	L	1	Bell 206 Jetranger	City Of Tucson PD
+a3372e	N306SB	L	1	Bell Uh-1 Huey	San Bernardiino Co. Sheriffs
+a339af	N307DS	L	0	Flightstar Ii	Butler Marshal B
+a33a74	N307MP	L	1	As50	Miami-Dade Sheriff
+a33a92	N307NU	L	0		Nasa Marshall Space Flight C
+a33ae5	N307SB	L	1	Bell 212	San Bernardino Co. Sheriffs 
+a33dbb	N308HB	L	1	Bell 206 Jetranger	Robeson Co. Sheriff
+a33dc7	N308HP	P	0		California HP
+a33e07	N308LC	L	1	Bell 206 Jetranger	Leon Co. Sheriff
+a33e2b	N308MP	L	1	As50	Miami-Dade Sheriff
+a33e49	N308NU	L	0		Nasa Marshall Space Flight C
+a33e9c	N308SB	L	1	Bell Uh-1 Huey	San Bernardino Co. Sheriffs 
+a341e2	N309MP	L	1	As50	Miami-Dade Sheriff
+a34200	N309NU	L	0		Nasa Marshall Space Flight C
+a34253	N309SB	L	0		San Bernardino Co. Sheriff D
+a34a8b	N311AC	L	0		Ak-Chin PD
+a34b45	N311HP	P	0	Cessna T182 Turbo Skylane	Ohio Dept Public Safety
+a34bac	N311MS	L	0	Boeing 737-800	Us Marshals Service Justice 
+a34bc7	N311NU	L	0		Nasa Marshall Space Flight C
+a34c19	N311SA	P	0		Alabama Dept Of Public Safet
+a34cb1	N311YC	L	1	Bell 206 Jetranger	Yellowstone Co. Sheriff Offi
+a34efc	N312HP	P	0		Nc HP
+a34fd3	N312SD	L	1	Aerospatiale As-350 Ecureuil	Harris Co. Sheriff
+a34fe1	N312ST	P	1	Bell 407	State Of Michigan
+a350c6	N3121M	L	0		Montpelier Police
+a3524f	N313DP	L	1	Bell 407	San Diego Co. Sheriff Dept
+a355c9	N314BC	L	1	Bell 206 Jetranger	Brunswick Co. Sheriff
+a35604	N314DM	L	0	National Aeronautics Cassutt 3	Marshall Donald R
+a3566a	N314HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+a3573d	N314S	L	0	Cessna 182 Skylane	Orem John Marshall
+a35c91	N3156C	L	0	Cessna  180 Skywagon	Marshall Robert L
+a35e18	N316LC	L	1	Bell 206 Jetranger	Pasco Co. Sheriff
+a36111	N317CN	L	1	Bell Uh-1 Huey	Pasco Sheriff
+a3618f	N317HP	P	0		North Carolina State HP
+a3639b	N3173H	L	1	Bell 206 Jetranger	Alabama Law Enforcement Agen
+a363e8	N3175Q	L	0	Piper Pa-28-140/150/160/180	Marshaltown Aviation Inc
+a36546	N318HP	P	0		North Carolina HP
+a36811	N3188Z	L	1	Bell 206 Jetranger	Fulton Co. Police Headquarte
+a368fd	N319HP	P	0		North Carolina HP
+a3693d	N319LC	L	1	Bell 206 Jetranger	Pasco Co. Sheriff
+a36968	N319MW	L	1	Bell 407	San Diego Co. Sheriff Depart
+a369b9	N319RB	L	0	Beech 200 Super King Air	Palm Beach Co. Sheriffs Depa
+a36f0d	N320HP	P	0		North Carolina HP
+a37285	N321FA	L	0		Wilmington PD
+a3767b	N322HP	P	0		North Carolina HP
+a378bb	N32240	L	1	Bell Uh-1 Huey	Ventura Co. Sheriffs Departm
+a37a32	N323HP	P	0		North Carolina HP
+a37de9	N324HP	P	0		North Carolina HP
+a384d7	N326CL	P	1	R44	State Of Alaska
+a389a2	N327PM	L	0		San Antonio PD
+a389e7	N327SF	P	0	Pilatus Pc-12	State Of Colorado
+a38c0b	N328AC	L	0		Ak-Chin PD
+a38d9e	N328SF	P	0	Pilatus Pc-12	State Of Colorado
+a3917e	N329TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a39552	N33VA	P	0	Daher Kodiak 100	Commonwealth Of Virginia
+a39576	N33WM	L	0	National Aeronautics Cassutt 3	Marshall Jerry
+a3961d	N330DC	L	1	Bell 206 Jetranger	Coweta Co. Sheriff
+a39718	N330PD	L	1	Hughes Sky Knight	City Of Oakland
+a39cc5	N3316W	L	0		Polk Co. Sheriff Office
+a39f1b	N332VC	L	0		Ventura Co. Sheriffs Departm
+a3a075	N3326P	L	0	Piper Pa-23	Dean Marshall H
+a3a255	N333QC	P	0		Delaware State Police
+a3a9f4	N335SB	L	0	Christen Husky	Park Co. Sheriff
+a3ac1c	N336AC	L	0		Ak-Chin PD
+a3b295	N3373D	L	0	Cessna  180 Skywagon	Carpenter Marshall Owen
+a3b51b	N338SD	L	1	Aerospatiale As-350 Ecureuil	Erie Co. Sheriff
+a3b741	N339AC	L	0		Ak-Chin PD
+a3b8d2	N339SD	L	1	As50	Erie Co. Sheriff
+a3bcd1	N34VA	P	1	Bell 407	Commonwealth Of Virginia
+a3bd35	N34ZA	L	0	Zenair Ch-2000 Zenith	Joiner Marshall C
+a3be97	N340PD	L	1	B505	City Of Omaha
+a3c1c2	N341HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+a3c6e5	N342YC	L	1	Bell 206 Jetranger	Yellowstone Co. Sheriffs Off
+a3c74e	N3421Y	L	0	Cessna R182 Skylane Rg	Marshall Air Llc
+a3d12a	N345PD	L	0	Phantom 3 Advanced	City Of Bethlehem PD
+a3d731	N3469F	L	0	Kitfox	Carpenter Marshall O
+a3e372	N35LD	L	1	Bell 206 Jetranger	Mississippi Co. Sheriffs Dep
+a3e4d0	N350AC	L	0		Alachua Co. Sheriff
+a3e54c	N350FB	L	0		Phoenix Police
+a3e5ee	N350MP	L	1	Aerospatiale As-350 Ecureuil	City Of Memphis PD
+a3e5f1	N350MS	P	1	Aerospatiale As-350 Ecureuil	Mississippi Dept Public Safe
+a3e758	N3501R	L	0	Cessna  206 Stationair	Stanislaus Co. Sheriffs Depa
+a3e89c	N351AZ	P	0		Arizona Dept Public Safety
+a3e9a8	N351MS	P	0		Mississippi Dept Of Public S
+a3ec36	N35196	L	0	Cessna  177 Cardinal	Courtney Marshall Duchesne
+a3ed84	N352PD	L	1	Aerospatiale As-350 Ecureuil	Suffolk Co. PD
+a3f29a	N3532K	P	0	Cessna Tr182 Turbo Skylane Rg	Washington SP
+a3f4f2	N354PD	L	1	Aerospatiale As-350 Ecureuil	Suffolk Co. PD
+a3f547	N354SP	P	1	Bell 206 Jetranger	Louisiana State Police
+a3f68b	N35438	L	0	Cessna T206 Turbo Stationair	Kern Co. Sheriffs Department
+a3f7bc	N355DS	L	1	B06	Desoto Parish Sheriff Office
+a3f8fe	N355SP	P	1	Bell 206 Jetranger	Louisiana State Police
+a3fb1a	N356AC	L	0		Ak-Chin PD
+a3fc14	N356LC	L	1	Airbus Helicopters Ec-120	Lake Co. Indiana
+a3fcb5	N356SP	P	1	Bell Uh-1 Huey	Louisiana Dept Public Safety
+a4006c	N357SP	P	1	Bell 206 Jetranger	Louisiana Dept Public Safety
+a40384	N358LE	L	0		Collier Co. Sheriff
+a403fe	N358RB	L	0		Palm Beach Co. Sheriff
+a406bb	N359FB	L	1	Aerospatiale As-350 Ecureuil	Phoenix PD
+a40b91	N36SP	P	0	Learjet 35	Kentucky State Police
+a40bcf	N36VA	P	1	Bell 407	Commonwealth Of Virginia
+a41146	N361NY	P	0	Beechcraft Super King Air 350	State Of New York
+a411c2	N361TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a414fd	N362NY	P	0		State Of New York Division O
+a41e9b	N3648C	L	0		City Of Covington
+a423ca	N366NH	P	0	Cessna Tr182 Turbo Skylane Rg	State Of New Hampshire Dept 
+a42434	N366SP	P	1	Bell 407	New Hampshire State Police
+a42638	N3669Q	L	0	Beech 23 Sundowner	Marshall Jerry W
+a427c6	N367RB	L	0		Palm Beach Co. Sheriff
+a42eba	N369LE	L	1	Hughes 500	City Of Oxford Alabama PD
+a43488	N370HP	P	1	Aerospatiale As-350 Ecureuil	Oklahoma Dept Public Safety
+a437d9	N371DM	L	0	Bellanca 8 Decathlon	City Of Bakersfield Californ
+a43834	N371HC	L	1	Bell 206 Jetranger	Henry Co. Sheriff
+a43f25	N373CC	L	0		Canadian Co. Sheriff
+a43fa2	N373HC	L	1	B06	Henry Co. Sheriff
+a44021	N373NE	P	1	Bell 505 Jetranger X	Nebraska SP
+a442dc	N374CC	L	0		Canadian Co. Sheriff
+a44359	N374HC	L	0		Henry Co. Sheriff
+a44710	N375HC	L	0		Henry Co. Sheriff
+a449d6	N3758H	L	0		Henry Co. Sheriff
+a453f0	N3780W	L	0	Piper Pa-32	Raines Marshall A Jr
+a45899	N3797T	L	0	Piper Pa-28R-180/200/201	Marshall Patrick R
+a45c07	N380HP	P	0		Oklahoma Dept Public Safety
+a45c61	N380MD	P	0		Maryland State Police Aviati
+a45e0e	N3803C	P	1	Uh1	State Of Colorado Dept Publi
+a45e31	N3804C	P	1	Uh1	State Of Colorado Dept Publi
+a45eef	N3809T	L	0	Piper Pa-28R-180/200/201	Miller Jo Ann
+a46018	N381MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a46095	N381SD	L	0		Pinal Co. Sheriff
+a4612a	N381YC	L	1	Bell 206 Jetranger	Yellowstone Co. Sheriff Offi
+a462bb	N382AC	L	0		Ak-Chin PD
+a463cf	N382MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a4644c	N382SD	L	0		Pinal Co. Sheriff
+a46696	N383BP	L	0	C25B	Marshall Engines Inc
+a46786	N383MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a46803	N383SD	L	0		Pinal Co. Sheriff
+a46811	N383ST	P	1	Bell 407	State Of Michigan Dept State
+a46b3d	N384MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a46ef4	N385MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a4712c	N3857B	L	0	Beech 35 Bonanza	Christensen Marshall J
+a472ab	N386MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a47357	N386UA	L	0	Inspire 2	Office Of Louisiana State Fi
+a4741a	N3861L	L	0	Cessna 172 Skyhawk	Severson Marshall G
+a47662	N387MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a47a19	N388MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a47a95	N388SC	L	0		St Charles Parish Sheriff
+a47dd0	N389MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a47e4c	N389SC	L	0		St Charles Parish Sheriff
+a482e1	N390AZ	L	0		Salt River PD
+a4833b	N390EP	P	0		Arkansas State Police
+a483e0	N390MD	P	1	Agusta Aw-139	Maryland State Police Aviati
+a48467	N390SP	P	0	Beech 200 Super King Air	State Of Arkansas
+a48797	N391MD	P	0		Maryland State Police Aviati
+a48de4	N39291	L	0	Taylorcraft Dc/Df/Dl	Huisman Marshall G
+a4933d	N394SH	L	0		Salina Co. Sheriffs Dept
+a49f5c	N3971Y	L	0	Cessna 201 Centurion	Limestone Co. Sheriff Dept
+a49f6f	N3972G	L	0	Cessna T206 Turbo Stationair	Co. Of Merced Sheriff'S Dept
+a4a924	N4NJ	P	1	Bell 206 Jetranger	State Of New Jersey
+a4abda	N40SB	L	0	Beech 200 Super King Air	San Bernadino Co. Sheriff
+a4ac24	N40VA	P	1	Bell 412	Commonwealth Of Virgina Dept
+a4afe4	N40060	L	0	Piper Pa-28-140/150/160/180	Marshall Loraine
+a4b107	N401H	L	1	Bell 407	St Johns Co. Sheriff Office
+a4b179	N401MP	L	0	Cessna P210 Centurion	Miami-Dade Sheriff
+a4b187	N401NC	P	1	Bell 429 Globalranger	North Carolina State HP
+a4b1f6	N401SP	P	1	Bell 206 Jetranger	Connecticut State Police
+a4b4da	N402JC	L	1	Aerospatiale As-350 Ecureuil	Jefferson Co. Sheriff
+a4b53e	N402NC	P	0		North Carolina State HP
+a4b558	N402PD	L	1	Bell 407	City Of Omaha
+a4b5ad	N402SP	P	1	Bell 206 Jetranger	Connecticut State Police
+a4b8e7	N403MP	L	0		Miami-Dade PD
+a4b8f5	N403NC	P	0		North Carolina State HP
+a4bb1b	N4037H	L	0	Mooney M-20	Watson Marshall
+a4bcac	N404NC	P	1	Bell 407	North Carolina State HP
+a4c063	N405NC	P	1	Bell 407	North Carolina State HP
+a4c07b	N405PB	L	0		Palm Beach Co. Sheriff
+a4c0f3	N405TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a4c32b	N406CP	L	0	Beech U-21 Ute	Calcasieu Parish Police Jury
+a4c41a	N406NC	P	1	Bell 407	North Carolina State HP
+a4c434	N406PD	L	1	Bell 407	Charlotte-Mecklenburg PD
+a4c6d7	N407CC	L	1	Bell 407	Co. Of Contra Costa
+a4c6f0	N407DC	L	0		San Jose PD
+a4c6f1	N407DD	L	0		Jefferson Co. Sheriff
+a4c72a	N407FL	L	1	Bell 407	Sarasota Co. Sheriff
+a4c76e	N407JD	L	0		Orange Co. Sheriff
+a4c785	N407KB	L	1	Bell 407	Orange Co. Sheriff
+a4c794	N407KS	L	1	Bell 407	King Co. Sheriff
+a4c7a8	N407LM	L	1	Bell 407	Orange Co. Sheriff
+a4c7d1	N407NC	P	1	Bell 407	Nc HP
+a4c7d9	N407NL	L	1	Bell 407	Orange Co. Sheriff
+a4c7e0	N407NT	L	0		Alachua Co. Sheriff
+a4c7e5	N407NY	L	1	Bell 407	New York City Police Aviatio
+a4c7f5	N407PP	L	0		Jefferson Co. Sheriff
+a4c81b	N407RB	L	0		Alachua Co. Sheriff
+a4c833	N407SA	L	1	Bell 407	Alabama Law Enforcement Agen
+a4c834	N407SB	L	0		Santa Barbara Sheriffs Dept
+a4c840	N407SP	P	0		Delaware State Police
+a4c843	N407SS	P	1	Bell 407	State Of Indiana
+a4c877	N407UU	L	0		Jefferson Co. Sheriff
+a4cb16	N408HP	P	0		California HP
+a4cb7a	N408MP	L	0		Miami-Dade Sheriff
+a4cb88	N408NC	P	0		North Carolina State HP
+a4cbed	N408SD	L	1	Airbus Helicopters Ec-120	Co. Of Santa Clara
+a4cf31	N409MP	L	0		Miami-Dade Sheriff
+a4cf3f	N409NC	P	0		North Carolina State HP
+a4d240	N41EW	L	1	Bell 206 Jetranger	Memphis PD
+a4d4d2	N410HC	L	0		Hennepin Co. Sheriff
+a4d54f	N410NC	P	0		North Carolina State HP
+a4d565	N410P	L	0	Challenger Ii	Marshall Keith E
+a4d98e	N411TP	L	1	Bell 407	City Of Tampa PD
+a4db92	N412AD	P	1	Bell 412	Georgia Dept Of Public Safet
+a4dc0f	N412FD	L	0		Ventura Co. Sheriffs Departm
+a4dd4d	N412TX	L	1	Bell 412	Bernailillo Co. Sheriff
+a4dd6c	N412VC	L	1	Bell 412	Co. Of Ventura Sheriff
+a4e019	N413JM	L	1	As50	Hillsborough Co. Sheriff
+a4e2b8	N4138C	L	0	Stinson 108 Voyager	Marshall Bob
+a4e940	N4151T	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a4ea57	N4159S	L	0	Piper Pa-18 Super Cub	Crew Marshall D
+a4eb1c	N416HC	L	0		Hennepin Co. Sheriff
+a4f149	N41758	L	0	Mdcp	Kearney PD
+a4f5e8	N419DP	L	0		Dunwoody PD
+a4f7ef	N4190H	L	0		Montpelier Police
+a4f8af	N41950	L	0		Montpelier PD
+a4fa4b	N42LL	L	0	Cessna 172 Skyhawk	Gayden Marshall G
+a4fe7c	N42033	P	0	Cessna 172 Skyhawk	State Of Alaska
+a500f4	N421SP	P	1	H500	Kentucky State Police
+a501f1	N42117	L	0	Cessna 172 Skyhawk	Sturdivant Marshall J
+a50351	N422CT	L	1	Bell 407	King Co. Sheriff
+a50e9f	N425EJ	L	0	Cessna Tr182 Turbo Skylane Rg	City Of Portland
+a50efd	N425JC	L	1	Bell 206 Jetranger	Jackson Co. Sheriff
+a50f7b	N425PD	L	1	Bell 206 Jetranger	Jackson PD
+a51506	N4265X	L	0	Cuby	Marshall George T
+a515ac	N427AM	P	0	Cessna T182 Turbo Skylane	State Of Oregon
+a5173e	N427SP	P	1	B430	State Of New York
+a51c22	N4283K	L	0	Ufo Enforcer	Marshall Douglas W
+a51e51	N429NY	L	0		New York City Police Aviatio
+a51e57	N429PD	L	0		New York City PD
+a51eac	N429SP	P	0		Arkansas State Police
+a51eec	N429VC	L	0		Ventura Co. Sheriffs Departm
+a52259	N43SD	L	1	Aerospatiale As-350 Ecureuil	Pinellas Co. Sheriff
+a52353	N430CC	L	1	B407	Charleston Co. Sheriff
+a52431	N430M	P	0	Cessna R182 Skylane Rg	State Of Louisiana
+a524dd	N430TX	P	0	Cessna 208 Caravan	Texas Dept Public Safety
+a52638	N4305U	L	0	Beech 36 Bonanza	Marshall Paul A Trustee
+a52b79	N432KM	L	0		Marshall'S Riverbank Nurseri
+a52bcf	N432NY	P	1	Bell 430	State Of New York
+a534d3	N4343Z	L	0	Piper Pa-18 Super Cub	Hood River Co. Sheriff
+a539b4	N436DA	P	0	Sky Ranger	Michigan Dept State Police
+a53eb0	N437SA	L	0	Iii Sky Arrow	Suffolk Co. Sheriff
+a541fc	N438MU	L	1	As50	Marshall University
+a549f9	N44TM	L	0	Socata Tbm-700A/B/C	Team Marshall Llc
+a54be6	N440PD	L	0		City Of Oakland PD Helicopte
+a54dfb	N4407S	L	0		Collier Co. Sheriff
+a54f9d	N441PD	L	1	Robinson R-44 Raven	Baton Rouge PD
+a5520e	N442AC	L	0		Alameda Co. Sheriff
+a55217	N442AM	L	0	Ap32	Marshall Terry D
+a55354	N442PD	L	1	Robinson R-44 Raven	Desoto Parish Sheriff Office
+a55b17	N444SP	P	0		Delaware State Police
+a55d3d	N445AN	P	0		Iowa SP
+a55f4a	N445XN	L	0		New Castle Co. PD (De)
+a56b7a	N44855	L	0	P28A	Marshall Xavier T
+a57013	N45DE	L	1	Bell 206 Jetranger	Marshall Co. Sheriff Dept
+a57161	N45SP	P	1	Bell Uh-1 Huey	Kentucky State Police
+a572a5	N450FM	L	0		Tarrant Co. Fire Marshal'S O
+a58178	N454FC	L	0		Fulton Co. Sheriff
+a58241	N454PD	L	1	Ec45	Co. Of Suffolk PD
+a582a3	N454TB	P	0	Beechcraft Super King Air 350	Dept Public Safety Of The St
+a5852f	N455FC	L	0		Fulton Co. Sheriff
+a585f8	N455PD	L	1	Bell 407	Charlotte Mecklenburg PD
+a58923	N456HP	P	0		Dept Of California HP
+a590d3	N458LE	L	0		Collier Co. Sheriff
+a59324	N4587C	L	0	Cessna 170	Jackson Marshall L Ii
+a597b0	N46EK	L	0	Ap32	Marshall Wayne F
+a598e0	N46SP	P	1	Hughes 500	Kentucky State Police
+a599b3	N460AZ	P	0	Mavic 2 Pro	State Of Arizona
+a59d6a	N461AZ	P	0	Mavic 2 Pro	State Of Arizona
+a5a0a4	N4617E	P	0	Cessna R182 Skylane Rg	State Of Michigan
+a5a0af	N4617R	L	0	Piper Pa-28-140/150/160/180	Hash Marshall W
+a5a121	N462AZ	P	0	Mavic 2 Pro	State Of Arizona
+a5a4d8	N463AZ	P	0	Mavic 2 Pro	State Of Arizona
+a5ab2a	N4642W	L	0	North American Rockwell Comman	Hash Marshall W
+a5ac46	N465AZ	P	0	Spark	State Of Arizona
+a5ae92	N4650M	L	0	Piper Pa-11 Cub Special	Burr David Marshall
+a5affd	N466AZ	P	0	Mavic 2 Pro	State Of Arizona
+a5b045	N466DW	P	1	B407	Georgia Dept Of Public Safet
+a5b0fb	N466MC	L	0		Monroe Co. Sheriff
+a5b114	N466NC	L	0		New Castle Co. PD
+a5b3b4	N467AZ	P	0	Mavic 2 Pro	State Of Arizona
+a5b76b	N468AZ	P	0		Arizona Dept Public Safety
+a5b7e6	N468FX	L	0	Glf4	Flexjet Llc
+a5b869	N468MC	L	0		Monroe Co. Sheriff
+a5b882	N468NC	L	0		New Castle Co. PD
+a5b948	N468WA	L	1	Bk17	Windward Aviation Inc
+a5bb22	N469AZ	P	0	Mavic 2 Enterp Zoom	State Of Arizona
+a5bc20	N469MC	L	0		Monroe Co. Sheriff
+a5bc39	N469NC	L	0		New Castle Co. PD
+a5c249	N470NC	L	0		New Castle Co. PD
+a5c550	N471FB	L	0		Fort Bend Co. Sheriff
+a5c600	N471NC	L	0		New Castle Co. PD
+a5c8bd	N472CC	L	0		Citrus Co. Sheriff
+a5c9b7	N472NC	L	0		New Castle Co. PD
+a5ccbe	N473FB	L	0		Fort Bend Co. Sheriff
+a5cd6e	N473NC	L	0		New Castle Co. PD
+a5d125	N474NC	L	0		New Castle Co. PD
+a5d4dc	N475NC	L	0		New Castle Co. PD
+a5d893	N476NC	L	0		New Castle Co. PD
+a5dc3a	N477MM	L	0	Rotorway Exec	Marshall Michael P
+a5dc4a	N477NC	L	0		New Castle Co. PD
+a5dc9b	N477RJ	L	0	Cessna 525B Citation Cj3	Marshall Racing Llc
+a5df8f	N478HP	P	0		Utah HP
+a5e001	N478NC	L	0		New Castle Co. PD
+a5e3b8	N479NC	L	0		New Castle Co. PD
+a5e8b1	N480AZ	P	0	Sky Ranger	State Of Arizona
+a5e9ed	N480PQ	L	1	Enstrom Th-28	Plaquemines Parish Sheriff
+a5ec68	N481AZ	P	0	Inspire 1	State Of Arizona
+a5ed98	N481PC	L	0		Orange Co. Sheriff
+a5edca	N481RC	L	1	Bell 206 Jetranger	Orange Co. Sheriff
+a5edd2	N481RL	L	0		Orange Co. Sheriff
+a5ef47	N4814U	L	0	Cessna 201 Centurion	Hash Marshall T
+a5f01f	N482AZ	P	0	Matrice 100	State Of Arizona
+a5f3d6	N483AZ	P	0	Mavic Pro	State Of Arizona
+a5f78d	N484AZ	P	0	Phantom 4 Pro+	State Of Arizona
+a5f791	N484BC	L	0		Broward Co. Sheriff
+a5fb44	N485AZ	P	0	Phantom 4 Pro	State Of Arizona
+a5fc75	N485PD	L	0		Montpelier PD
+a602b2	N487AZ	P	0	Mavic 2 Zoom	State Of Arizona
+a6034b	N487HB	L	1	Aerospatiale As-350 Ecureuil	Co. Of Butte
+a60669	N488AZ	P	0	Mavic 2 Enterp Dual	State Of Arizona
+a6066d	N488BC	L	1	Bell 206 Jetranger	Butte Co. Sheriff
+a60a20	N489AZ	P	0	Mavic 2 Pro	State Of Arizona
+a60ba6	N489SP	P	0		Mn SP
+a6165b	N4911S	L	1	Bell 206 Jetranger	Santa Barbara Co. Sheriffs D
+a62a7d	N497E	L	1	Bell 206 Jetranger	Kern Co. Sheriffs Department
+a63208	N499FD	L	0		New Castle Co. PD (De)
+a6323a	N499HD	L	0		New Castle Co. PD (De)
+a6326c	N499KD	L	0		New Castle Co. PD (De)
+a63673	N5NJ	P	1	Agusta Aw-139	State Of New Jersey
+a6383f	N50GT	L	0	Cessna 310	Thomas Richard E
+a63a68	N500EV	L	1	Hughes 500	Snohomish Co. Sheriff
+a63b83	N500SC	L	1	Bell 407	South Carolina Law Enforceme
+a63b9f	N500TF	L	0	Cessna 172 Skyhawk	Pine Bluff PD
+a63bb5	N500UC	L	0		Utah Co. Sheriff
+a63e64	N501HP	L	1	Hughes 500	Honolulu PD
+a63e80	N501JS	L	1	Bell 206 Jetranger	Shelby Co. Sheriff
+a63f2a	N501RM	L	1	Hughes 500	City Of Pasadena
+a63f65	N501TW	L	1	Bell 206 Jetranger	Anderson Co. Sheriff
+a6421b	N502HP	L	1	Hughes 500	Honolulu PD
+a6427f	N502MP	L	0		City Of Mesa PD/Aviation Dep
+a642f9	N502SL	L	1	Hughes 500	Sc Law Enforcement Division
+a644d4	N5028F	L	0	Bellanca 8 Decathlon	Marshall Kevin
+a64662	N503PH	L	1	Aerospatiale As-350 Ecureuil	City Of Miami PD
+a64989	N504HP	P	0	Pc12	Florida HP
+a64a67	N504SL	L	1	Hughes 500	South Carolina Law Enforceme
+a64c91	N505AP	L	0		Albuquerque PD
+a64ce2	N505DV	L	0		Spokane Co. Sheriff
+a64d34	N505HB	L	1	Bell 505 Jetranger X	Office Of The Sheriff
+a64da4	N505MP	L	1	Hughes 500	City Of Mesa PD
+a64e41	N505TW	L	0		Anderson Co. Sheriff
+a64e48	N505UC	L	0	Cub Crafters Cc-11 Carbon Cub	Utah Co. Sheriff
+a64eb9	N505YR	L	0	Glasair	Marshall Douglas W
+a6539b	N5067V	L	0	2150A	Kampert Keith Wayne Jr
+a65512	N507MP	L	1	Hughes 500	Mesa PD
+a6558f	N507SP	P	1	Bell 407	State Of Indiana
+a655af	N507TW	L	0		Anderson Co. Sheriff
+a65865	N508HP	P	0		California HP
+a658c9	N508MP	L	0		Mesa PD/Aviation Unit
+a65946	N508SP	P	1	Bell 407	Louisiana State Police
+a65bbe	N509DV	L	1	B505	Spokane Co. Sheriff
+a65c38	N509JS	L	1	Bell Uh-1 Huey	Spokane Co. Sheriff
+a65c80	N509MP	L	0		Mesa PD/Aviation Unit
+a65cf2	N509SC	L	1	Bell 206 Jetranger	Spokane Co. Sheriff
+a65fcb	N51HF	L	0	Cessna  206 Stationair	San Mateo Co. Sheriff
+a660b4	N51SP	P	0	Cessna 182 Skylane	Dept Public Safety
+a6628f	N510MN	L	1	Bell 206 Jetranger	Dekalb Co. Sheriff
+a663cc	N5100E	L	0	Cessna 172 Skyhawk	Watson Lloyd Marshall
+a66625	N511LE	L	0	Typhoon H	Salt River PD
+a669da	N512LC	L	1	Bell 206 Jetranger	Lake Co. Sheriff Department
+a669e3	N512LM	L	0	Quantum 15	Marshall Adam J
+a66a26	N512PD	L	0		Detroit Police Air Support
+a66a6e	N512SA	L	1	Bell Uh-1 Huey	Alabama Law Enforcement Agen
+a66d91	N513LC	L	1	Bell 206 Jetranger	Lake Co. Sheriffs Dept
+a66ddd	N513PD	L	1	Bell 206 Jetranger	City Of Detroit
+a66ffe	N51374	L	0	Cessna 150	Siekmann David G
+a67108	N514HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio / Dept Public 
+a67117	N514JD	L	1	Airbus Helicopters Ec-120	City Of Fresno PD
+a67148	N514LC	L	1	Bell Uh-1 Huey	Lake Co. Sheriffs Department
+a674ff	N515LC	L	1	Bell Uh-1 Huey	Lake Co. Sheriff Department
+a678a8	N516KP	L	0		Peter Marshall
+a67c6d	N517LC	L	0		Lake Co. Sheriff
+a67f83	N518DS	L	1	Bell 407	Volusia Sheriff
+a68024	N518LC	L	0		Lake Co. Sheriff
+a68235	N5185G	L	1	Hughes 500	Las Vegas Metropolitan PD
+a683db	N519LC	L	0		Lake Co. Sheriff
+a689eb	N520LC	L	0		Lake Co. Sheriff
+a68a37	N520PD	L	1	Hughes 500	City Of Glendale PD
+a68a45	N520PT	L	0	Kitfox	Marshall Jesse A
+a68a85	N520SG	L	0		Louisvill Police
+a68a8c	N520SP	P	0		Arkansas State Police
+a68bb5	N5203F	L	0	Cessna 172 Skyhawk	Dale Co. Sheriff
+a68cd6	N521BZ	L	1	Bell 206 Jetranger	Baxter Co. Sheriff
+a68df1	N521PG	L	0		Prince Georges Co. Police Av
+a68e43	N521SP	P	0		Dept Arkansas State Police
+a69164	N522LP	L	0	Leptron Rdass	Guernsey Co. Sheriff
+a692b5	N5220A	L	0	Cessna Tr182 Turbo Skylane Rg	Marshall Chadwick J
+a693ea	N52285	L	0	Cessna T206 Turbo Stationair	Calcasieu Parish Sheriff
+a6943c	N523BR	L	0		East Baton Rouge Sheriff
+a695a7	N523SD	L	0		East Baton Rouge Sheriff
+a695b1	N523SP	P	0	Cessna T206 Turbo Stationair	Arkansas State Police
+a697c2	N52393	L	0	Cessna 182 Skylane	Riverside Co. Sheriffs Depar
+a698f2	N524MW	L	1	Airbus Helicopters Ec-120	City Of Fresno
+a69968	N524SP	P	1	Bell 407	Arkansas State Police
+a69c4c	N525JC	L	1	Bell 206 Jetranger	Jackson Co. Sheriffs Departm
+a69cca	N525PD	L	0		City Of Glendale PD
+a69d1f	N525SP	P	0		Arkansas State Police
+a6a0b1	N526RB	L	1	Bell 429 Globalranger	Palm Beach Co. Sheriff
+a6a2b5	N5268N	L	0	Stearman Kaydet	Marshall Michael A
+a6a2ec	N52698	L	0	Cessna 182 Skylane	Marshall Gregory
+a6a4e5	N527WB	L	0		Alachua Co. Sheriff
+a6a56c	N5271B	P	0	Cessna T206 Turbo Stationair	Texas Dept Public Safety
+a6aa57	N52895	L	0	Cessna 182 Skylane	Marshall Brian L
+a6ab5c	N529LE	L	1	Bell 429 Globalranger	Collier Co. Sheriff
+a6aefc	N53KG	P	0	Beech 300 Super King Air	Kentucky State Police
+a6aff0	N53VA	P	1	Bell 407	Commonwealth Of Virginia
+a6b07b	N530AP	L	0		Jefferson Co. PD
+a6b089	N530BC	L	0		Butte Co. Sheriff
+a6b0d4	N530EC	L	1	As50	El Dorado Co. Sheriff
+a6b140	N530JL	L	1	Hughes 500	Las Vegas Metropolitan PD
+a6b1b6	N530PD	L	0		Albuquerque PD
+a6b1b9	N530PG	L	0		Prince Georges Co. Police Av
+a6b201	N530SD	L	1	Bell 206 Jetranger	East Baton Rouge Parish Sher
+a6b20b	N530SP	P	0		Louisiana HP C/O Fatc
+a6b27a	N530X	L	1	Hughes 500	Oxford PD
+a6b407	N5309G	L	0	Cessna 305/341 Bird Dog	Marshall Randall
+a6b4e1	N531HP	P	0	Cessna T206 Turbo Stationair	Florida HP
+a6b56d	N531PD	L	0		Albuquerque PD
+a6b766	N5316Z	L	0	Piper Pa-22	Marshall Jesse A
+a6bb10	N5326L	L	0	Piper Pa-28-140/150/160/180	Marshall Aero Llc
+a6bcf3	N533QC	L	1	Bell 206 Jetranger	Calhoun Co. Sheriff
+a6bd25	N533SC	L	1	Bell 206 Jetranger	Calhoun Co. Sheriff
+a6bd88	N533WB	L	1	Bell 206 Jetranger	Bay Co. Sheriff'S Dept
+a6bf32	N5339N	P	0	Cessna 182 Skylane	Maine State Police
+a6c092	N534PD	L	1	Aerospatiale As-350 Ecureuil	Fresno PD
+a6c50d	N535X	L	1	H500	Oxford PD
+a6c703	N536DA	P	0	Sky Ranger	Michigan Dept State Police
+a6c800	N536PD	P	1	Bell 407	Westchester Co. Dept Public 
+a6cb8d	N537MM	L	0	Christen Husky	Marshall Aviation Services I
+a6cbb3	N537P	L	1	Bell 206 Jetranger	Putnam Co. Sheriff
+a6d692	N54LE	L	1	Bell 206 Jetranger	Wilmington PD
+a6d731	N54SP	P	1	Bell 206 Jetranger	Indiana State Police
+a6d7fa	N540AP	L	0		Jefferson Co. PD
+a6d804	N540AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6da75	N5401P	L	0	Piper Pa-24 Comanche	Cook Leo Marshall
+a6dbbb	N541AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6df72	N542AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6e329	N543AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6e6e0	N544AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6ea97	N545AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6ebc8	N545PD	L	0	Evo 2	Euclid PD
+a6ebde	N545QA	L	0	Inspire 1	Adams Co. Sheriff
+a6ec39	N545TS	L	1	Bell 206 Jetranger	Oconee Co. Sheriff Dept
+a6edc1	N5456Z	L	0	Piper Pa-22	Dias Marshall
+a6ee4e	N546AZ	P	0	Mavic 2 Zoom	State Of Arizona
+a6f0c7	N5461X	P	0	Cessna T206 Turbo Stationair	State Of Alaska
+a6f205	N547AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6f4eb	N54741	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a6f5bc	N548AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6f5c0	N548BC	L	0		Butte Co. Sheriff
+a6f6fe	N548PW	L	0	Da62	San Joaquin Co. Sheriff
+a6f973	N549AZ	P	0	Mavic 2 Pro	State Of Arizona
+a6faf3	N549SH	L	0		Salina Co. Sheriffs Dept
+a6fb56	N549WG	L	0	Draganflyer X6	Canyon Co. Sheriff
+a70028	N550HP	P	0		Kansas HP
+a7005d	N550KS	P	0	Cessna 525B Citation Cj3	Kansas HP
+a7033a	N551AZ	P	0		Arizona Dept Public Safety
+a70370	N551DC	L	0		San Jose PD
+a7044f	N551NA	L	0	Phantom 2	Ca State University Monterey
+a704c0	N551SP	P	0	Cessna T182 Turbo Skylane	Illinois State Police
+a70519	N551WC	L	0		Calcasieu Parish Police Jury
+a70713	N552CH	L	1	Bell 407	Orange Co. Sheriff
+a7086d	N552SD	L	0		East Baton Rouge Sheriff
+a709f3	N5525U	L	0	Cessna T206 Turbo Stationair	Sheriffs Department
+a70ad0	N553CP	L	1	Hughes 500	City Of Columbus Division Of
+a70b4d	N553HP	P	0	Cessna T206 Turbo Stationair	California HP
+a70f83	N554NR	L	1	Bell 206 Jetranger	Md Dnr PD
+a71392	N555SD	L	0		East Baton Rouge Parish Sher
+a715f5	N556CP	L	1	Hughes 500	City Of Columbus
+a716cf	N556MG	L	0	Bb26D	Marshall Jim G Dba
+a71749	N556SD	L	1	As50	Harris Co. Sheriff
+a71774	N556TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Of Public Safety
+a719ac	N557CP	L	1	Hughes 500	City Of Columbus
+a71b11	N557SW	L	0	Piper Pa-28-140/150/160/180	Marshall John F Iii
+a71fc4	N5582C	P	0	Piper Pa-18 Super Cub	Alaska Dept Public Safety
+a724a9	N56AZ	P	1	Bell 407	State Of Arizona Dept Public
+a7260b	N56RC	L	0	Evans Volksplane	Bottorff Marshall B
+a7296a	N5601E	L	0	Cessna R182 Skylane Rg	Marshall Joseph
+a729ff	N5605P	L	0	Piper Pa-24 Comanche	Aurnou Marshall E
+a72a1e	N5606K	L	0	Dream Machine	Grant Parish Sheriff
+a72ab9	N561AZ	P	0		Arizona Dept Public Safety
+a72b4d	N561GX	L	0		Palm Beach Co. Sheriff
+a72c3f	N561SP	P	0	C82S	Illinois State Police
+a72d32	N5611X	L	0	Rockwell Thrush Commander	Marshall Jerry D
+a72ff1	N562SJ	L	0	Phantom 2 Vision	St James Parish Sheriff
+a7319b	N56260	L	0	Stearman Kaydet	Marshall Jerry
+a7329d	N563FS	L	0	Cessna 150	Patterson Marshall S
+a73fe1	N5662Q	L	0	Mooney M-20	Marshall Adam S
+a741a8	N567HP	P	0		Dept Of California HP
+a74523	N568FD	L	0	Inspire 1	Highland Co. Sheriff
+a749fa	N569SS	L	1	Bell Uh-1 Huey	Brevard Co. Sheriff
+a74e77	N570AP	L	0		Jefferson Co. PD
+a75028	N570TX	P	0		Texas Dept Public Safety
+a75488	N5710R	L	0	C172	Marshall Fred R
+a7591f	N57265	P	0	Pc12	Louisiana State Police
+a75920	N57266	P	0	North American Rockwell Comman	Dept Public Safety
+a75d83	N574CM	L	0	Harmon Rocket	Marshall Aviation Services I
+a75ede	N574SJ	P	0		State Of Alaska Dept Public 
+a7606b	N57456	L	0	Bellanca 7 Citabria	Marshall James I
+a7622d	N575NE	P	1	Bell 407	Nebraska SP
+a762f3	N575WC	L	0		Village Of Winthrop Harbor P
+a76c6f	N578DC	L	0		Village Of Lake Villa PD
+a773a7	N58AZ	P	1	Bell 407	State Of Arizona
+a7740f	N58FC	L	1	Bell 206 Jetranger	Florence Co. Sheriff Dept
+a775f3	N580AL	L	0		Shelby Co. Sheriff
+a775f6	N580AP	L	0		Jefferson Co. PD
+a776ba	N580JK	L	0	Beech 58 Baron	Marshall John
+a77909	N58051	L	0		Baltimore/Washington Intl Th
+a7790a	N58052	L	0		Baltimore/Washington Intl Th
+a7790c	N58054	L	0		Baltimore/Washington Intl Th
+a7790d	N58055	L	0		Baltimore/Washington Intl Th
+a7790e	N58056	L	0		Baltimore/Washington Intl Th
+a7790f	N58057	L	0		Baltimore/Washington Intl Th
+a77910	N58058	L	0		Baltimore/Washington Intl Th
+a77911	N58059	L	0		Baltimore/Washington Intl Th
+a779aa	N581AL	L	1	Bell 206 Jetranger	Shelby Co. Sheriff
+a77b32	N581SC	L	1	Bell 206 Jetranger	Shelby Co. Sheriff
+a785df	N584MH	L	0		Mobile PD
+a787c8	N58447	L	0		Desoto Cty Sheriff Dept
+a7892d	N585HC	L	0		Henry Co. Sheriff
+a78aed	N58501	L	0	C208	Pinellas Co. Sheriff
+a79d75	N590AP	L	0		Jefferson Co. PD
+a79ee0	N590RB	L	0	Indago Le	Palm Beach Co. Sheriff
+a7a61e	N592PD	P	1	Bell 407	Westchester Co. Dept Of Publ
+a7a64e	N592RB	L	0		Palm Beach Co. Sheriff
+a7aa05	N593RB	L	0		Palm Beach Co. Sheriff
+a7adbc	N594RB	L	0		Palm Beach Co. Sheriff
+a7b173	N595RB	L	0		Palm Beach Co. Sheriff
+a7b52a	N596RB	L	0		Palm Beach Co. Sheriff
+a7c01f	N599PD	L	0		Montpelier PD
+a7c06a	N599SD	L	1	Aerospatiale As-350 Ecureuil	Pima Co. Sheriffs Department
+a7c136	N5990H	L	0		Montpelier PD
+a7c34a	N6HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio
+a7c3c2	N6NJ	P	1	Bell 206 Jetranger	New Jersey State Police
+a7c624	N60NT	L	1	Aerospatiale As-350 Ecureuil	City Of Ontario
+a7c6a5	N60TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a7c7fc	N600HP	P	0	Cessna 208 Caravan	Kansas HP
+a7c8d2	N600SC	L	1	B412	South Carolina Law Enforceme
+a7c8d3	N600SD	L	1	Bell Uh-1 Huey	Jefferson Co. Sheriff
+a7ca94	N6007H	L	0	North American Rockwell Comman	Police Facility Design Group
+a7cbb3	N601HP	P	0		Dept California HP
+a7cc3f	N601PD	L	0		Nassau Co. PD
+a7cc8a	N601SD	L	0	Mitsubishi Mu-2 Marquise	Jefferson Co. Sheriff
+a7cec5	N602AZ	P	0	M300 Rtk	State Of Arizona
+a7cff6	N602PD	L	0		Nassau Co. PD
+a7d041	N602SD	L	1	Bell 407	Jefferson Co. Sheriff
+a7d3ad	N603PD	L	0		Nassau Cnty PD
+a7d3f9	N603SE	P	0		New Mexico State Police
+a7d764	N604PD	L	1	Bell 429 Globalranger	Nassau Co. PD
+a7d925	N6045C	L	0	Cessna T206 Turbo Stationair	Orange Co. Sheriffs Departme
+a7d9d1	N605	P	0	Partenavia P-68 Observer	New York State Police
+a7dae8	N605MC	L	1	Bell 505 Jetranger X	Manatee Co. Sheriff
+a7db1b	N605PD	L	1	Bell 407	Nassau Co. PD
+a7ded2	N606PD	L	1	Bell 429 Globalranger	Nassau Co. PD
+a7e2de	N607SP	P	1	Airbus Helicopters Ec-145	New Mexico State Police Airc
+a7e2ec	N607TC	P	0	Cessna 208 Caravan	State Of Alaska
+a7e68b	N608SD	L	1	Bell Uh-1 Huey	Snohomish Co. Sheriff
+a7e695	N608SP	P	0		New Mexico State Police
+a7ea4c	N609SP	P	0		New Mexico State Police
+a7ee03	N61SP	P	1	Bell Uh-1 Huey	New York State Police
+a7f007	N610PD	L	0		Nassau Co. PD
+a7f075	N610TP	L	1	Bell 206 Jetranger	City Of Tampa PD
+a7f2f5	N611FC	L	1	B505	Flagler Co. Sheriff
+a7f332	N611HP	P	0	Cessna Tr182 Turbo Skylane Rg	Florida HP
+a7fa03	N613BG	L	0		Pima Co. Sheriff Dept
+a7fa17	N613CB	L	0		Pima Co. Sheriff Dept
+a7faae	N613JC	L	0		Pima Co. Sheriff Dept
+a800b5	N6145V	L	1	Hughes Sky Knight	Marshall University
+a80148	N61492	L	0	Stearman Kaydet	Huisman Marshall G
+a80348	N615WC	L	1	Bell 206 Jetranger	Williamson Co. Sheriff Offic
+a8054b	N616CS	L	0		Utica PD
+a8097c	N617HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+a80a08	N617PD	L	0		Cullman PD
+a80ab6	N617WC	L	1	Bell Uh-1 Huey	Williamson Co. Sheriff
+a80cd2	N618DS	L	1	B407	Volusia Sheriff
+a816fa	N620HP	P	0	Cessna T206 Turbo Stationair	Dept Public Safety
+a81709	N620JD	L	0	Phantom 3 Profession	Waukesha PD
+a8184d	N620XC	L	0	Phantom 3 Profession	Cherokee Sheriff
+a81a73	N621FB	L	1	Aerospatiale As-350 Ecureuil	City Of Phoenix
+a81e2a	N622FB	L	1	Aerospatiale As-350 Ecureuil	City Of Phoenix
+a820f8	N6227	L	1	Aerospatiale As-350 Ecureuil	Austin PD
+a82214	N623HC	L	1	Bell 206 Jetranger	Hernando Co. Sheriff
+a82598	N624FB	L	1	Aerospatiale As-350 Ecureuil	City Of Phoenix
+a8294f	N625FB	L	1	Aerospatiale As-350 Ecureuil	City Of Phoenix
+a82a62	N625SB	L	0		San Bernardino Co. Sheriffs 
+a82f24	N62619	L	1	Bell Uh-1 Huey	Brunswick Co. Sheriff
+a838f7	N629PF	L	0	Kitfox	Rohrig Randy Marshall
+a83c66	N63LJ	L	0	Mooney M-20	Lj Marshall Enterprises Llc
+a83dd4	N630AZ	P	0	Mavic 2 Pro	State Of Arizona
+a83e79	N630HP	P	0		Oklahoma Dept Public Safety
+a83e96	N630JT	L	1	Bell 206 Jetranger	Dale Co. Sheriff
+a8416f	N63097	L	1	Bell 206 Jetranger	Hernando Co. Sheriff
+a8418b	N631AZ	P	0	Mavic 2 Pro	State Of Arizona
+a84305	N631SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriffs 
+a84311	N631SP	P	0	Inspire 1	Illinois State Police
+a8431f	N631TC	L	1	Bell 206 Jetranger	Tuscaloosa PD
+a8447d	N6315C	L	0		Jay Constable
+a84486	N6315M	L	0		Jay Constable
+a846d6	N632TC	L	1	Bell 206 Jetranger	Etowah Co. Sheriff
+a846dd	N632TK	P	0	Cessna Tr182 Turbo Skylane Rg	Kentucky State Police
+a848f9	N633AZ	P	0	Mavic 2 Pro	State Of Arizona
+a84a75	N633SD	L	0		Oakland Co. Sheriff'S Depart
+a84b3c	N6330C	L	0	Cessna 201 Centurion	Los Angeles Co. Sheriffs Dep
+a84cb0	N634AZ	P	0	Matrice 300 Rtk	State Of Arizona
+a84e44	N634TC	L	0		Tuscaloosa Co. Sheriff
+a84ef6	N6340F	P	0	Cessna 182 Skylane	Commonwealth Of Massachusett
+a85067	N635AZ	P	0	Matrice 300 Rtk	State Of Arizona
+a851e3	N635SD	L	0	Droidworx Y-6	Oakland Co. Sheriff
+a85230	N635VF	L	0	Inspire 1	Highland Co. Sheriff
+a85452	N636DA	P	0	Sky Ranger	Michigan State Police
+a8594f	N637SB	L	0		San Bernardino Co. Sheriff'S
+a85d06	N638SB	L	0		San Bernardino Co. Sheriff'S
+a860bd	N639SB	L	0		San Bernardino Co. Sheriff'S
+a864fd	N64XP	L	0	Hawker Beechcraft Hawker 750/8	Marshall Greg J
+a865f8	N640HP	P	0		Kansas HP
+a867cc	N6401X	L	1	Bell 206 Jetranger	City Of Memphis
+a86819	N64034	P	0	Cessna 172 Skyhawk	State Of Louisiana
+a86c29	N6416N	L	0	Beech 36 Bonanza	Mcdonald Marshall H
+a86c87	N6419B	L	0	Cessna T210 Turbo Centurion	Marshall Timothy M Trustee
+a874fb	N644KC	L	0		Kansas City PD
+a87b5d	N64586	L	1	Bell Uh-1 Huey	Charlotte Co. Sheriff
+a87c5e	N646JS	P	0	T206	Washington SP
+a8815e	N647XW	L	0	Inspire 1	Williamson Co. Sheriff
+a88b1e	N65HP	P	0	Gippsaero Ga-8 Airvan	Ohio Dept Public Safety
+a88cd2	N650AZ	P	0		State Of Arizona
+a88d77	N650HP	P	1	Bell 407	Kansas HP
+a8914a	N651JS	P	0		Colorado SP
+a8920f	N651SP	P	0	Cessna T206 Turbo Stationair	New York State Police
+a89372	N65144	L	1	Bell 206 Jetranger	Canton PD
+a89afa	N6535V	L	0	Cessna 172R Cutlass Rg	Ellenberg Sholom
+a8a06e	N655MP	L	0	H520	Metra PD
+a8a425	N656MP	L	0	H520	Metra PD
+a8a61f	N6565V	L	0	Cessna 172R Cutlass Rg	Hodges Marshall E
+a8ab88	N658MC	L	0		Martin Co. Sheriff
+a8b4f6	N660HP	P	0		Kansas HP
+a8b98e	N661SP	P	0	Cessna T182 Turbo Skylane	Illinois State Police
+a8ca85	N666AB	L	1	Bell 505 Jetranger X	Middletown PD
+a8cb06	N666FF	L	0		Middletown PD
+a8cc2b	N666SZ	L	0		Middletown PD
+a8cf83	N667PD	L	0		Los Angeles PD
+a8d33a	N668PD	L	1	Aerospatiale As-350 Ecureuil	Los Angeles PD Air Support D
+a8d84b	N6692E	L	0	Cessna 175 Skylark	Marshall Jerry J Sr
+a8da5e	N67LE	L	1	Bell 206 Jetranger	City Of Wilmington PD
+a8dc75	N670HP	P	1	As50	Kansas HP
+a8dd00	N670PC	L	1	Bell 407	San Diego Co. Sheriffs Depar
+a8dd4c	N670SD	L	1	Bell 206 Jetranger	Marshall Co. Sheriff
+a8dd56	N670SP	P	1	Bell Uh-1 Huey	Dept Public Safety
+a8de3e	N6701L	L	0	Phantom 3 Profession	Lauderdale Country Sheriff
+a8deb6	N67041	L	1	Bell 206 Jetranger	Desoto Co. Sheriff Dept
+a8df6d	N67099	L	1	Bell 206 Jetranger	Spartanburg Co. Sheriff
+a8df87	N671AZ	L	0	Cessna 208 Caravan	Pima Co. Board Of Supervisor
+a8e10d	N671SP	P	0		Illinois State Police
+a8e2fb	N67183	P	1	Bell 206 Jetranger	State Of Louisiana
+a8e33e	N672AZ	L	0	Cessna 208 Caravan	Pima Co. Board Of Supervisor
+a8e585	N6720G	L	0	Cessna 150	Mcclintick Marshall Wyatt
+a8e63e	N6725S	L	0	Cessna 150	Marshall Jerry J
+a8e6e8	N673AL	L	1	B06	Citrus Co. Sheriff
+a8ea23	N67363	P	1	B06	Georgia SP Aviation Division
+a8ea97	N674AC	L	0		Alameda Co. Sheriff
+a8ec53	N674TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+a8f34b	N676PD	L	0		Cullman PD
+a8f547	N67662	L	1	Bell 206 Jetranger	Austin PD
+a8f6d8	N677MM	L	0		Michael Marshall
+a8f852	N67715	P	1	B06	Georgia SP Aviation Div
+a8fa16	N678GR	L	0	Mavic Mini	Gwinnett Co. PD
+a8fc0b	N67817	L	1	Bell 206 Jetranger	King Co. Sheriff
+a8fcf9	N67880	L	1	Bell 206 Jetranger	King Co. Sheriff
+a8fe19	N679KS	L	0	Rans S-21 Outbound	Marshall Van Matthew
+a8febb	N679SD	L	1	Bell Uh-1 Huey	Brevard Co. Sheriff Office
+a8ffbc	N67911	L	0		Chautauqua Co. Sheriff
+a903f4	N680HP	P	0		Kansas HP
+a90882	N681SD	L	0		Jefferson Co. Sheriff
+a90f7c	N683MN	L	1	Airbus Helicopters Ec-130	Arizona Law Enforcement Air 
+a928ca	N69EJ	L	0	High	Carpenter Marshall O
+a92bff	N690PD	L	1	Hughes 500	Board Of Police Commissioner
+a92fb6	N691PD	L	1	Hughes 500	Board Of Police Commissioner
+a93227	N692AC	L	0	Vans Rv-6	Marshall Carol A
+a9336d	N692PD	L	1	Hughes 500	Board Of Police Commissioner
+a935de	N693AC	L	0		Alameda Co. Sheriff
+a942a2	N696ST	P	1	B407	State Of Michigan
+a94738	N6971F	L	0	Cessna 150	Sutton Marshall T
+a949b7	N698PD	L	0		Board Of Police Commissioner
+a94c41	N699BC	L	1	Bell 206 Jetranger	Butler Co. Sheriff
+a94d6e	N699PD	L	0		Board Of Police Commissioner
+a94d9f	N699RC	L	1	Bell 206 Jetranger	Brunswick Co. Sheriff
+a95111	N7NJ	P	1	Agusta Aw-139	State Of New Jersey
+a955b2	N700MS	L	0		U S Marshal Service
+a95902	N701HP	P	0		Dept California HP
+a961ae	N703WG	L	0		San Diego Co. Sheriff
+a96595	N704YE	L	0	Cessna 150	Marshall J B
+a96694	N7046	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a966fd	N7049	P	0	Pa18	State Of Alaska
+a967fe	N705JW	L	0	Cessna Tr182 Turbo Skylane Rg	Tulare Co. Sheriff
+a9699c	N7051	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a96a05	N7054	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a96a28	N7055	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a96a4b	N7056	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a96ab4	N7059	P	0	Piper Pa-18 Super Cub	State Of Alaska Dept Public 
+a96b7e	N706GR	L	0	Mavic Mini	Gwinnett Co. PD
+a96b95	N706HP	P	0	Cessna R182 Skylane Rg	Florida HP
+a97126	N70713	P	0	Cessna 185 Skywagon	State Of Alaska
+a97127	N70714	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a97128	N70715	P	0	Cessna 208 Caravan	State Of Alaska
+a9738f	N708PD	L	1	Aerospatiale As-350 Ecureuil	East Bay Regional Park Distr
+a9754d	N7085	P	0	Piper Pa-18 Super Cub	State Of Alaska
+a975cb	N7088W	L	0	Piper Pa-28-140/150/160/180	Marshall Xavier T
+a9775e	N709QC	L	0	Instanteye Mk-2 Gen3	Billings Co. Sheriffs Depart
+a977a8	N709TB	L	0	Instanteye Mk-2 Gen3	Billings Co. Sheriffs Depart
+a977f8	N709WG	L	1	Bell 407	San Diego Co Sheriff Dept
+a97a71	N71HP	P	1	Aerospatiale As-350 Ecureuil	Ohio Dept Public Safety
+a97aa3	N71KP	P	1	Bell Uh-1 Huey	King Co. Dept Public Safety
+a97ab1	N71LC	L	1	Aerospatiale As-350 Ecureuil	Lee Co. Sheriff
+a97b90	N71VA	P	1	Bell 407	Virginia State Police
+a97d56	N710PD	L	1	Bell 505 Jetranger X	Chino PD
+a97ecf	N7103A	L	0	C172	Cady Marshall J
+a98083	N711HR	L	0	Beech 36 Bonanza	Marshall Phillip W Iii
+a98272	N7112R	L	0	Piper Pa-28-140/150/160/180	Marshall Air Llc
+a98438	N712HP	P	1	B407	Dept Highway Safety And Moto
+a98687	N7125E	L	0	Cessna 182 Skylane	Trinity Co. Sheriffs Departm
+a98752	N713BG	L	0	Phantom 3 Profession	Adams Co. Sheriffs Dept
+a9877e	N713DA	L	0	Phantom 2 Vision +	East Baton Rouge Parish Sher
+a987b1	N713FB	L	0	Phantom 2 Vision +	East Baton Rouge Parish Sher
+a98c1f	N714NK	P	0	Cessna 185 Skywagon	State Of Alaska
+a98f5d	N715HP	P	0	Cessna T182 Turbo Skylane	Ohio Dept Public Safety
+a99378	N716MP	L	0		Metro Nashville Police Aviat
+a99389	N716NF	L	0		Niagara Co. Sheriff
+a99425	N716UM	L	0	Phantom Pro Plus	Miami Dade Sheriff
+a99643	N717CC	L	1	Aerospatiale As-350 Ecureuil	Hillsborough Co. Sheriff
+a99644	N717CD	L	0	Cessna 560Xl Citation Xls	Hillsborough Co. Sheriff
+a996a5	N717GA	P	0		Georgia SP Avn
+a996cb	N717HP	P	0	Cessna 208 Caravan	Ohio Dept Public Safety
+a997ac	N717SP	P	1	B429	Minnesota SP
+a99a21	N718DS	L	1	B407	Volusia Sheriff
+a99c89	N7183C	P	1	Robinson R-44 Raven	State Of Alaska
+a99e13	N719GA	P	0		Georgia SP Avn
+a9a0ae	N7196H	P	1	Robinson R-44 Raven	State Of Alaska
+a9a1f0	N72HP	P	1	Aerospatiale As-350 Ecureuil	Ohio Dept Public Safety
+a9a230	N72LC	L	1	Aerospatiale As-350 Ecureuil	Lee Co. Sheriff
+a9a449	N720HP	P	1	Bell 407	Tennessee HP Dept Safety
+a9a52c	N720SR	L	1	Bell 206 Jetranger	Indian River Co. Sheriff
+a9add4	N72230	L	0	Cessna 140	Guillory Marshall C
+a9b5be	N7247J	L	0		Collier Co. Sheriff
+a9b5de	N7248F	L	1	Bell 206 Jetranger	Calhoun Co. Sheriff
+a9b711	N725KS	P	0		Kansas HP
+a9c5fa	N729LE	L	0		Collier Co. Sheriff
+a9c96f	N73HP	P	1	Aerospatiale As-350 Ecureuil	Ohio State HP
+a9c9af	N73LC	L	1	Aerospatiale As-350 Ecureuil	Lee Co. Sheriff
+a9c9d5	N73MR	L	0	Cessna Tr182 Turbo Skylane Rg	Marshall Edward G Trustee
+a9cbc8	N730HP	P	1	Bell 407	Tennessee HP Dept Safety
+a9cece	N731AM	L	0		Aaron Marshall
+a9d056	N731SD	L	1	Bell 206 Jetranger	Harris Co. Sheriff
+a9d47c	N732WQ	L	0	Cessna T210 Turbo Centurion	Los Angeles Co. Sheriffs Dep
+a9d5b4	N7326S	P	0	Cessna 182 Skylane	State Of Alaska Dept Public 
+a9d662	N733C	L	0	Stinson 108 Voyager	Marshall Merle F
+a9dc03	N734XQ	L	0	Cessna 172 Skyhawk	Sumter Co. Sheriff
+a9df5b	N735TV	L	0	Cessna 182 Skylane	El Paso PD
+a9e1a1	N736DA	P	0		Michigan State Police
+a9e6be	N737TJ	L	0	Cessna 172 Skyhawk	Stanislaus Co. Sheriffs Depa
+a9e74c	N737ZA	L	0	Cessna 172 Skyhawk	Co. Of Santa Cruz
+a9e898	N73783	L	0		Sheriff Of Charlotte Co.
+a9e8c3	N738A	L	0	Boeing 737-700	U S Marshals Service
+a9ea1e	N738PX	L	0	Cessna 172 Skyhawk	Macomb Co. Sheriffs Aviation
+a9ec57	N7389A	L	0	Phantom 3 Advanced	Auglaize Co. Sheriff
+a9f046	N74AW	L	0	Beech 200 Super King Air	Monroe Co. Sheriff
+a9f12e	N74LC	L	0	Cessna T210 Turbo Centurion	Lee Co. Sheriff
+a9f380	N740KW	L	0	Phantom 3 Advanced	Williamson Co. Sheriff
+a9f3b2	N740MW	L	0	Phantom 3 Advanced	Williamson Co. Sheriff
+a9f7dd	N741SM	L	1	Aerospatiale As-350 Ecureuil	Las Vegas Metropolitan PD
+aa0220	N744HL	L	0	Phantom 2 Vision +	Office Of Louisiana State Fi
+aa0f9d	N7475L	L	0	Phantom 2 Vision +	Office Of Louisana State Fir
+aa11a1	N748QA	L	0	Inspire 1	Office Of Louisiana State Fi
+aa1292	N748ZS	L	0	Phantom 2 Vision +	Office Of Louisiana State Fi
+aa12ab	N7480S	L	0	Phantom 2 Vision +	Officer Of Louisiana State F
+aa1597	N749SP	P	0	Cessna T206 Turbo Stationair	New York State Police
+aa169d	N7492F	L	1	Hughes Sky Knight	Houston PD
+aa16c0	N7493F	L	1	Hughes Sky Knight	Houston PD
+aa20ae	N7514K	L	1	Bell 206 Jetranger	Al Etowah Co Sheriff Dept
+aa21c5	N752DC	L	1	Bell 206 Jetranger	Mississippi Co. Sheriff Depa
+aa23c1	N752ZL	L	0	Phantom 2 Vision +	Office Of Louisiana State Fi
+aa29ad	N754J	L	0	Jabiru J200-450	Andrews Marshall Wayne
+aa2f72	N7553W	L	0	Piper Pa-28-140/150/160/180	Gates Marshall D Iii
+aa3111	N756HQ	L	0	Cessna T206 Turbo Stationair	Maricopa Co. Sheriff
+aa32db	N7561N	L	0	Cessna T206 Turbo Stationair	Pierce Co. Sheriffs Departme
+aa3ba4	N759BU	L	0	Cessna 182 Skylane	Marin Co. Sheriff
+aa4682	N761NY	P	1	Sikorsky S-76 Spirit	New York State Police
+aa491b	N762BM	L	0	Vans Rv-8	Marshall Baron R
+aa49f3	N762LC	L	1	Bell 206 Jetranger	Leon Co. Sheriff
+aa4a39	N762NY	P	0		New York State Police
+aa5240	N764VA	P	0	Cessna T206 Turbo Stationair	Virginia Dept State Police
+aa5812	N766CP	L	0	Cessna 172 Skyhawk	City Of Cleveland
+aa5d42	N767TR	L	0	Progressive Aerodyne Searey	Tetterton Marshall O
+aa5fcb	N768FP	L	0	Inspire 1	Lehigh University PD
+aa60e2	N768ST	P	1	Bell Uh-1 Huey	Mi State Police Field Supp A
+aa6587	N7691W	L	0	Piper Pa-28-140/150/160/180	Roth Marshall Aviation Llc
+aa6e5c	N771SP	P	0	Cessna T182 Turbo Skylane	Illinois State Police
+aa7114	N772GJ	L	0	Cessna Tr182 Turbo Skylane Rg	Polk Co. Sheriff
+aa74e9	N773HP	P	0	Cessna T206 Turbo Stationair	Florida HP
+aa7641	N773XH	L	0	Phantom 3 Profession	Hendersonville Police Nc
+aa7769	N7736U	L	0	Cessna 172 Skyhawk	Watson Marshall
+aa786b	N774FL	L	0	T206	Sacramento Co. Sheriff
+aa80ef	N776SP	L	0		Carter Co. Sheriffs Departme
+aa8225	N7763U	L	0	Cessna 150	Marshall Michael S
+aa82cd	N7768M	L	0	Mooney M-20	Hoyle Charles D Jr
+aa8600	N7774V	L	0	North American Rockwell A-9 Sp	Marshall Soaring Club Inc
+aa8695	N77784	L	0	Mavic 2 Enterprise	Salt River PD
+aa86d4	N778AW	L	1	Bell 206 Jetranger	Wayne Co. Sheriff
+aa8c44	N779UM	L	0	Mavic 2 Enterp Zoom	Miami-Dade Sheriff
+aa90d3	N780DB	L	0		Palm Beach Co. Sheriff
+aa942a	N7809S	L	0	Bellanca 8 Decathlon	Jo Ann Miller Marshall
+aa9459	N781BC	L	1	As50	Broward Co. Sheriff
+aa9810	N782BC	L	1	Aerospatiale As-350 Ecureuil	Broward Co. Sheriff
+aa9b21	N7826C	L	0		Anaheim PD
+aa9bc3	N783AZ	P	1	Bell 429 Globalranger	State Of Arizona Dept Public
+aa9bc7	N783BC	L	1	Aerospatiale As-350 Ecureuil	Broward Co. Sheriff
+aaa888	N786TQ	L	0	Qr X800	Beaver Co. Sheriff
+aaac19	N787SB	L	0		San Bernardino Co. Sheriffs 
+aaafd0	N788SB	L	0		San Bernardino Co. Sheriffs 
+aab319	N789MS	L	0		Us Marshals Service
+aab46c	N78906	L	1	Bell 206 Jetranger	King Co. Sheriff
+aab6cd	N79MP	P	0	Cessna Tr182 Turbo Skylane Rg	Missouri State HP
+aab6f5	N79PD	L	1	B06	Clark Co. Sheriff
+aab985	N790RJ	L	1	Bell Uh-1 Huey	King Co. Sheriff
+aaba6a	N7900N	L	0	Cessna 172 Skyhawk	Warren Co. Sheriffs Dept
+aabb94	N79086	L	0	Cessna 172 Skyhawk	Marshall Co. Flying Club Inc
+aabe9d	N79137	L	0	Cessna 172 Skyhawk	Marshall Jeffery K
+aac2d8	N7927Z	L	0	Cessna 150	Koehn Marshall C
+aac60c	N79338	L	0	Mooney M-20	Baber Fredrick Marshall
+aacc11	N795RB	L	1	Bell 429 Globalranger	Palm Beach Co. Sheriff
+aade5d	N8NF	L	1	Bell 206 Jetranger	City Of Pasadena
+aae0c2	N80NT	L	1	Aerospatiale As-350 Ecureuil	Los Angeles Interagency Metr
+aae2f3	N800MC	L	1	Bell 206 Jetranger	Martin Co. Sheriffs Departme
+aae5f0	N801DS	L	1	Bell 407	Pasco Sheriff
+aae651	N801HP	P	0		Dept California HP
+aae6ab	N801MD	L	0	Mavic 2 Enterp Dual	Miami-Dade Sheriff
+aae6dd	N801PD	L	0		San Diego PD
+aae759	N801UC	L	0		Utah Co. Sheriff
+aaea94	N802PD	L	0		San Diego PD
+aaed5e	N803DS	L	1	Bell 407	Pasco Sheriff
+aaee4b	N803PD	L	0		San Diego PD
+aaee64	N803QD	L	0	Phantom 4	Dover Delaware PD
+aaf1da	N804MP	L	1	Aerospatiale As-350 Ecureuil	Miami Dade PD
+aaf202	N804PD	L	0		San Diego PD
+aaf287	N804UM	L	0	Phantom Pro Plus	Miami Dade PD
+aaf311	N8040	L	0	Pts2	Collins Leon Marshall
+aaf3f7	N8046V	L	0	Cessna 188 Agtruck	St Bernard Parish Police Jur
+aaf591	N805MP	L	1	Aerospatiale As-350 Ecureuil	Miami Dade PD
+aaf5b9	N805PD	L	0		San Diego PD
+aaf60b	N805SL	L	0	Cessna R182 Skylane Rg	Co. Of San Luis Obispo Sheri
+aaf970	N806PD	L	0		San Diego PD
+aaf9e6	N806TX	L	0		Lubbock PD
+aaf9ed	N806UD	L	0	Inspire 1	Dover Delaware PD
+aafbfc	N807BE	L	0	Phantom 4 Pro	Dover Delaware PD
+aafd27	N807PD	L	0		San Diego PD
+ab0824	N81MP	P	0	Cessna R182 Skylane Rg	State Of Missouri
+ab0bd4	N81007	L	0	Piper Pa-34 Seneca	Marshall David W Ii
+ab0ed2	N811TX	L	0	Rotorsport Mtosport	Queen Annes Co. Sheriff
+ab1289	N812TX	P	0		Texas Dept Of Public Safety
+ab1608	N813RR	L	1	Bell 206 Jetranger	Indian River Co. Sheriff
+ab1800	N8138Q	L	0	Cessna 185 Skywagon	Anderson Marshall H
+ab194e	N814MC	L	1	Aerospatiale As-350 Ecureuil	Martin Co. Sheriff
+ab1a19	N814VF	L	0	Phantom 4	Allegheny Co. Sheriff
+ab1d82	N815SC	L	1	Bell Uh-1 Huey	Snohomish Co. Sheriff
+ab2698	N8176S	L	1	Bell 206 Jetranger	Bladen Co. Sheriff Departmen
+ab2c8a	N819TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+ab2f2d	N82GW	L	0	Mavic 2 Enterp Dual	Gwinnett Co. PD
+ab2f81	N82LE	L	0	Cessna Tr182 Turbo Skylane Rg	Collier Co. Sheriff
+ab3651	N821TX	P	0	Hawker Beechcraft Hawker 750/8	Texas Dept Of Public Safety
+ab3670	N821VC	L	0		Vanderburgh Co. Sheriff
+ab3861	N822AZ	P	1	Bell 429 Globalranger	Arizona Dept Public Safety
+ab399c	N822PP	P	1	Airbus Helicopters Ec-135/635	Massachusetts State Police
+ab3c6b	N823EG	P	0	T206	Washington SP
+ab3cd4	N823JM	P	1	Airbus Helicopters Ec-135/635	Massachusetts State Police
+ab3dde	N823VC	L	0		Vanderburgh Co. Sheriff
+ab3e10	N823XC	L	1	Bell 206 Jetranger	Clark Co. Sheriff
+ab3fbf	N824AH	P	1	Airbus Helicopters Ec-135/635	Massachusetts State Police
+ab4176	N824TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+ab4195	N824VC	L	0		Vanderburgh Co. Sheriff
+ab448d	N825MM	P	1	Airbus Helicopters Ec-135/635	Massachusetts State Police
+ab454c	N825VC	L	0		Vanderburgh Co. Sheriff
+ab4c7e	N827ST	P	1	Bell Uh-1 Huey	Mi State Police Field Supp A
+ab4c9b	N827TX	P	1	As50	Texas Dept Public Safety
+ab4db8	N82732	P	0	Piper Pa-18 Super Cub	State Of Alaska
+ab4dbb	N82735	P	0	Piper Pa-18 Super Cub	State Of Alaska
+ab4dbc	N82736	P	0	Piper Pa-18 Super Cub	State Of Alaska
+ab4e4a	N82778	L	1	Bell 206 Jetranger	Bay Co. Sheriff
+ab4e91	N82799	L	0	Bellanca 7 Champion	Sheriff Christopher J
+ab4f4d	N828HL	L	0	Inspire 1 Pro	Office Of Louisiana State Fi
+ab4f91	N828LD	L	0	Inspire 2	Office Of Louisiana State Fi
+ab4fca	N828NL	L	0	Inspire 2	Office Of Louisiana State Fi
+ab5040	N828TD	L	0	Inspire 1 Pro	Office Of Louisana State Fir
+ab505b	N828UF	L	0	Inspire 2	Office Of Louisiana State Fi
+ab5349	N829LE	L	0		Collier Co. Sheriff
+ab5722	N83MP	P	0	Beech 200 Super King Air	Missouri State HP
+ab5980	N830MU	L	0	Pa44	Marshall University
+ab5a43	N830VP	L	1	Bell 206 Jetranger	Pulaski Co. Sheriff
+ab5a58	N830WK	L	1	Bell 206 Jetranger	Pulaski Co. Sheriff
+ab5d37	N831MU	L	0	Sr20	Marshall University
+ab5da3	N831SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriffs 
+ab5da4	N831SC	L	0		Santa Cruz Co. Sheriff
+ab60ee	N832MU	L	0	Sr20	Marshall University
+ab615a	N832SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriff'S
+ab6511	N833SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriffs 
+ab66ff	N8338R	L	0	Piper Pa-28-140/150/160/180	Marshall Rodney V
+ab68c8	N834SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriff'S
+ab6c1c	N835NC	L	0	Matrice 210 V1	New Castle Co. Police
+ab6c7f	N835SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriffs 
+ab6c80	N835SC	L	0	C172	St. Charles Parish Sheriff R
+ab6ef0	N836DA	P	0		Michigan State Police
+ab7036	N836SB	L	1	Aerospatiale As-350 Ecureuil	San Bernardino Co. Sheriffs 
+ab7037	N836SC	L	0		St. Charles Parish Sheriff R
+ab74ff	N8372F	L	1	Hughes 500	City Of Houston PD
+ab816d	N840SD	L	1	Bell 206 Jetranger	Marshall Co. Sheriff
+ab87e1	N842GD	L	0	Mavic Pro	Habersham Co. Sheriff
+ab8a06	N84228	L	0	Bellanca 7 Champion	Marshall Donald R
+ab8d5a	N8430D	L	0	Piper Pa-22	Bottorff Marshall B
+ab8e31	N8436J	L	0	Piper Pa-28-140/150/160/180	Marshall Lee C
+ab9074	N844TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+ab9366	N845L	L	0	Cessna 340 Super	Marshall Timothy Trustee
+ab9b6d	N847SC	L	0		St Charles Parish Sheriff
+ab9c8c	N8472V	L	0	Rockwell Thrush Commander	Marshall Jerry D
+aba282	N849NP	L	1	Aerospatiale As-350 Ecureuil	Metropolitan Nashville Polic
+aba2af	N849QJ	L	0	Matrice 210 V1	Johnston Co. Sheriff
+aba2db	N849SC	L	0		St. Charles Parish Sheriff R
+abab7f	N851EM	L	0	Beech 200 Super King Air	Los Angeles PD
+abac7a	N851QN	L	0	Mavic Pro	New Castle Co. Police
+abb13a	N85203	L	0	Mavic 2 Enterprise	Salt River PD
+abb1ec	N85256	L	0	Inspire 1	Salt River PD
+abb289	N853AM	L	0		Marshall Space Flight Center
+abb410	N853SC	L	0		St. Charles Parish Sheriff R
+abb44b	N853UM	L	0	Matrice 210Rtk	Miami-Dade Sheriff
+abb5a6	N85359	L	1	Bell 206 Jetranger	Bladen Co. Sheriff
+abb640	N854AM	L	0		Marshall Space Flight Center
+abb70c	N854JR	L	0		Pasadena PD
+abb7b4	N854RJ	L	1	Bell 206 Jetranger	Pasadena PD
+abb84c	N854XL	L	0	Matrice 210 V1	Office Of Lousiana State Fir
+abb9f7	N855AM	L	0		Marshall Space Flight Center
+abbce3	N8554V	L	0	Bellanca 7 Champion	Paulson Marshall R
+abbd26	N8556S	L	0	Cessna 182 Skylane	Royalty Marshall E
+abbdae	N856AM	L	0		Marshall Space Flight Center
+abc165	N857AM	L	0		Marshall Space Flight Center
+abcc93	N86AW	L	0	Cessna 414 Chancellor	Mohave Co. Sheriff
+abcd9f	N86MP	P	0	Kodiak Quest 200/900	Missouri State HP
+abd6de	N862GC	L	0	Matrice 200	Canyon Co. Sheriff
+abd7ea	N862SW	L	0		Long Beach PD
+abdba1	N863SW	L	0		Long Beach PD
+abde18	N864EA	L	0	Mavic 2 Enterp Dual	Jones Co. Sheriff
+abdf58	N864SW	L	0		Long Beach PD
+abe24e	N865KC	L	0		Knox Co. Sheriff
+abe30f	N865SW	L	0		Long Beach PD
+abe578	N866DM	L	0	Cessna T206 Turbo Stationair	Orange Co. Sheriff
+abefbe	N8686E	L	0	C Modified	Dias Marshall D
+abf713	N870HP	P	0		Kansas HP
+abf7f8	N870ST	P	0	B350	Pennsylvania State Police
+abf8b4	N8700F	L	1	Hughes Sky Knight	Houston PD
+abfa5c	N871DD	L	0	Matrice 210Rtk	Waukesha PD
+abfad6	N871JA	L	0	Mavic 2 Enterp Dual	Buffalo Co. Sheriff
+abfbaf	N871ST	P	1	Bell 407	Pennsylvania State Police
+abfc04	N871WC	L	0		Warrick Co. Sheriff
+abff66	N872ST	P	1	Bell 407	Pennsylvania State Police
+abffbb	N872WC	L	0		Warrick Co. Sheriff
+ac029c	N873MP	P	0		Missouri State HP
+ac031d	N873ST	P	1	Bell 407	Pennsylvania State Police
+ac0372	N873WC	L	0		Warrick Co. Sheriff
+ac0388	N873X	L	0	Steen Skybolt	Marshall Christopher Lee
+ac06d4	N874ST	P	1	Bell 407	Pennsylvania State Police
+ac0729	N874WC	L	0		Warrick Co. Sheriff
+ac0a8b	N875ST	P	1	Bell 407	Pennsylvania State Police
+ac0e42	N876ST	P	1	Bell 407	Pennsylvania State Police
+ac0e7c	N876VA	P	0	Daher Kodiak 100	Commonwealth Of Virginia
+ac1085	N877BW	L	0	Inspire 1	Williamson Co. Sheriff Offic
+ac1267	N877XC	L	0	Mavic 2 Enterprise	Craig Co Sheriff
+ac153d	N878NC	L	0	H520	Cavuga Nation PD
+ac15b0	N878ST	P	0	Cessna 208 Caravan	Pennsylvania State Police
+ac1967	N879ST	P	0	Pilatus Pc-12	Pennsylvania State Police
+ac1b86	N88AK	P	0	Piper Pa-18 Super Cub	State Of Alaska
+ac1d10	N88SD	L	1	Bell Uh-1 Huey	City Of Chicago Dept Police
+ac22d6	N881PE	L	0	Matrice 210 V2	City Of Edina Mn PD
+ac232a	N881SP	P	0	Cessna T182 Turbo Skylane	Illinois State Police
+ac2431	N8812G	L	0	Matrice 210 V2	Gwinnett Co. PD
+ac247d	N8814N	L	0	Piper Pa-28-140/150/160/180	Marshall Lance A
+ac249a	N8815G	L	0	Mavic 2 Enterprise	Gwinnett Co. PD
+ac2672	N882NC	L	1	Bell 206 Jetranger	Niagara Co. Sheriffs Departm
+ac2753	N882XC	L	0	Mavic 2 Enterp Dual	Savannah PD
+ac2a8e	N883SD	L	1	Aerospatiale As-350 Ecureuil	City Of San Diego
+ac2e45	N884SD	L	1	Aerospatiale As-350 Ecureuil	City Of San Diego Police Air
+ac2e4f	N884SP	L	0	Mavic 2 Enterprise	Savannah PD
+ac43b0	N89HF	L	0	J3	Marshall Terry N
+ac455f	N890AL	L	0	Mavic 2 Pro	Alamosa Co. Sheriff
+ac46f2	N890SP	P	1	Bell 206 Jetranger	West Virginia State Police
+ac4795	N890ZB	L	0	Mavic Mini	Gwinnett Co. PD
+ac4ab8	N891TD	P	0	Cessna 208 Caravan	Massachusetts State Police
+ac4e64	N892ST	P	0		Pennsylvania State Police
+ac4e8b	N892UG	L	0	Mdcp	Kearney PD
+ac51f3	N893RC	L	0	Pilatus Pc-12	Riverside Co. Sheriff Califo
+ac521b	N893ST	P	0		Pennsylvania State Police
+ac55d2	N894ST	P	0		Pennsylvania State Police
+ac5985	N895SP	P	1	Bell 206 Jetranger	West Virginia State Police
+ac5989	N895ST	P	0		Pennsylvania State Police
+ac5c54	N896HG	L	0	Mavic 2 Enterp Zoom	Gwinnett Co. PD
+ac5d40	N896ST	P	0		Pennsylvania State Police
+ac60f7	N897ST	P	0		Pennsylvania State Police
+ac6365	N898DP	L	0	Mavic Mini	Gwinnett Co. PD
+ac64ae	N898ST	P	0		Pennsylvania State Police
+ac6527	N898XP	L	0		Marshall Xavier
+ac6aa1	N9BP	L	0	Cessna 182 Skylane	Lynn Marshall
+ac6d28	N90DK	L	1	Aerospatiale As-350 Ecureuil	Dekalb Co. Police
+ac6d90	N90HP	P	0	Cessna Tr182 Turbo Skylane Rg	Oklahoma Dept Public Safety
+ac6df4	N90MP	P	1	Bell 206 Jetranger	State Of Missouri
+ac6e82	N90TF	L	0	Cessna T206 Turbo Stationair	Monterey Co. Sheriff
+ac6e92	N90TX	P	1	Aerospatiale As-350 Ecureuil	Texas Dept Public Safety
+ac6fe9	N900HP	P	0	Cessna  206 Stationair	Kansas HP
+ac715d	N900YL	L	0	Matrice 300 Rtk	Gwinnett Co. PD
+ac72fb	N901AZ	P	0		Arizona Dept Of Public Safet
+ac73ad	N901JB	L	1	As50	Martin Co. Sheriff
+ac73eb	N901LP	L	1	Bell 206 Jetranger	Livingston Parish Sheriff
+ac7499	N901TN	P	1	Bell 206 Jetranger	Tn Dept Of Public Safety
+ac74ac	N901UG	L	0	Mavic Mini	Gwinnett Co. PD
+ac74c5	N901VG	L	0	Mavic Mini	Gwinnwtt Co. PD
+ac77a2	N902LP	L	1	Bell 206 Jetranger	Livingston Parish Sheriff
+ac7b0e	N903HP	P	0		Dept California HP
+ac7d0a	N90322	P	0	Cessna  206 Stationair	State Of Alaska Dept Public 
+ac7d18	N9033F	L	0	Beech 33 Bonanza	Marshall Randy M
+ac8265	N905GR	L	0	Phantom 3 Profession	Gila River PD
+ac827c	N905HP	P	0		Dept California HP
+ac835d	N905SP	P	1	Bell 206 Jetranger	Georgia Dept Public Safety
+ac861c	N906GR	L	0	Inspire 1	Gila River PD
+ac8633	N906HP	P	0		Dept California HP
+ac8714	N906SP	P	1	Bell 206 Jetranger	Georgia Dept Public Safety
+ac8a42	N907MB	P	0		State Of Alaska Dept Of Publ
+ac8a76	N907PD	L	0		New York City PD
+ac8ac6	N907SJ	P	0		State Of Alaska Dept Public 
+ac8acf	N907ST	P	0	Pa18	State Of Alaska Dept Public 
+ac8e2d	N908PD	L	0		New York City PD
+ac8e82	N908SP	P	1	Bell 206 Jetranger	Georgia Dept Public Safety
+ac9141	N909GR	L	0		Gila River PD
+ac917c	N909K	L	1	Bell 206 Jetranger	Jefferson Co. Sheriff Dept
+ac91e4	N909PD	L	0		New York City PD
+ac92b4	N909XM	L	0	Matrice 210Rtk	Miami-Dade PD
+ac94a7	N91DK	L	1	Aerospatiale As-350 Ecureuil	Dekalb PD
+ac94b9	N91EC	L	1	Bell 206 Jetranger	Putnam Co. Sheriff
+ac9524	N91JK	L	1	Bell Uh-1 Huey	Washoe Co. Sheriff Dept
+ac9582	N91ND	L	1	Bell 206 Jetranger	Stratford PD
+ac96c3	N910AZ	P	0		Arizona Dept Public Safety
+ac9768	N910HP	P	0	Cessna Tr182 Turbo Skylane Rg	State Of Ohio
+ac978f	N910KC	L	1	Bell Uh-1 Huey	Knox Co. Sheriff
+ac97f4	N910PD	L	0		New York City PD
+ac97f7	N910PG	L	1	Hughes 500	Prince Georges Co. PD
+ac9869	N910TW	L	0	Cessna 172 Skyhawk	Multnomah Co. Sheriff
+ac98b0	N910WS	L	0		Martin Co. Sheriff
+ac9a65	N911AC	L	1	Bell 505 Jetranger X	Alameda Co Sheriff
+ac9a68	N911AF	L	1	Bell 206 Jetranger	Marion Co. Sheriff
+ac9a6a	N911AH	L	1	Bell 206 Jetranger	St Lucie Co. Sheriff
+ac9a71	N911AQ	L	0		Albuquerque PD Air Support U
+ac9a73	N911AS	L	1	Aerospatiale As-350 Ecureuil	Washington Dc Metropolitan P
+ac9a75	N911AU	L	0		Knox Co. Sheriffs Department
+ac9a7a	N911AZ	P	1	Bell 429 Globalranger	State Of Arizona
+ac9a7c	N911BA	L	1	Bell 206 Jetranger	Marion Co. Sheriff
+ac9a7f	N911BD	L	1	Bell 206 Jetranger	Sumter Co. Sheriff
+ac9a95	N911CA	P	0	Beech 300 Super King Air	California HP
+ac9aa2	N911CP	L	1	Hughes 500	St Louis Co. PD
+ac9ab4	N911DG	L	1	Aerospatiale As-350 Ecureuil	Hillsborough Co. Sheriff
+ac9ab6	N911DJ	L	1	Bell 206 Jetranger	Brevard Co. Sheriff
+ac9abb	N911DP	L	0		Oakland Co. PD
+ac9acd	N911EG	L	0		Alachua Co. Sheriff
+ac9ad4	N911EP	L	1	Hughes 500	St Louis Co. PD
+ac9ae7	N911FH	L	0		Polk Co. Sheriff
+ac9afb	N911GC	L	1	Bell Uh-1 Huey	Sacramento Co. Sheriffs Depa
+ac9afc	N911GD	L	0		Martin Co. Sheriff
+ac9b01	N911GJ	L	1	Hughes 500	Polk Co. Sheriff
+ac9b03	N911GL	L	0		Polk Co. Sheriff
+ac9b1c	N911HL	L	1	Bell 407	Jefferson Parish Sheriff
+ac9b1d	N911HM	L	0		Marion Co Sheriff
+ac9b1e	N911HN	L	1	Bell Uh-1 Huey	Santa Barbara Co. Sheriffs D
+ac9b20	N911HQ	L	0		Anne Arundel Co. Police
+ac9b35	N911JL	L	1	B429	Jefferson Parish Sheriff
+ac9b38	N911JP	L	0		Polk Co. Sheriff
+ac9b3d	N911JU	L	1	Bell 206 Jetranger	Brevard Co. Sheriffs Departm
+ac9b40	N911JX	L	1	Hughes 500	St Louis Co. Police
+ac9b51	N911KP	L	1	Bell Uh-1 Huey	Santa Barbara Sheriffs Dept
+ac9b57	N911KV	L	1	Bell 407	Marion Co Sheriff Office
+ac9b7c	N911MG	L	1	Bell 206 Jetranger	Marion Co. Sheriffs Departme
+ac9b83	N911MP	L	0		Modesto PD
+ac9b88	N911MU	L	1	Hughes 500	St Louis Co. PD
+ac9b9b	N911NN	L	1	Bell Uh-1 Huey	Tehama Co. Sheriff
+ac9b9d	N911NQ	L	1	Aerospatiale As-350 Ecureuil	Charlotte Co. Sheriff
+ac9ba2	N911NV	L	1	Bell Uh-1 Huey	Washoe Co. Sheriff
+ac9ba5	N911NY	L	1	Hughes 500	St Louis Co. (Mo) PD
+ac9bab	N911PD	L	0		Village Of Winthrop Harbor P
+ac9bae	N911PG	L	1	Hughes 500	Prince Georges Co. PD
+ac9baf	N911PH	L	1	Hughes 500	St Louis Co. PD
+ac9bbc	N911PW	L	1	Bell 206 Jetranger	Brevard Co. Sheriff
+ac9be0	N911RG	L	0		Polk Co. Sheriff
+ac9be7	N911RP	L	1	Hughes 500	City Of Riverside
+ac9bee	N911RW	L	1	B06	Polk Co. Sheriff
+ac9bf0	N911RY	L	1	Bell Uh-1 Huey	Sacramento Co. Sheriffs Depa
+ac9bfd	N911SL	L	1	Bell 206 Jetranger	St Lucie Co. Sheriffs Dept
+ac9c03	N911SS	L	1	Bell Uh-1 Huey	Merced Co. Sheriff
+ac9c09	N911SY	L	1	Bell 206 Jetranger	St Lucie Co. Sheriff
+ac9c0a	N911SZ	L	1	Bell Uh-1 Huey	Bernalillo Co. Sheriffs Depa
+ac9c1b	N911TR	L	0		Saint Lucie Co. Sheriff
+ac9c28	N911UD	L	1	Bell 206 Jetranger	Indian River Co. Sheriff
+ac9c45	N911VH	L	1	Bell 429 Globalranger	Cook Co. Sheriff
+ac9c59	N911WC	L	0		Montpelier PD
+ac9c5f	N911WJ	L	1	Hughes 500	Polk Co. Sheriff
+ac9c67	N911WS	L	1	Bell 206 Jetranger	Martin Co. Sheriff
+ac9c6c	N911WX	L	0		Anne Arundel Co. Police
+ac9c6d	N911WY	L	1	Hughes 500	Las Vegas Metropolitan PD
+ac9c8b	N911YC	L	1	Bell 206 Jetranger	Chelan Co. Sheriff
+ac9c9f	N911YY	L	1	Bell 206 Jetranger	City Of Chicago
+ac9ca2	N911ZA	L	0		Village Of Winthrop Harbor P
+ac9caf	N911ZP	L	1	Bell 429 Globalranger	City Of Chicago Dept Police
+ac9cb0	N911ZQ	L	1	B407	City Of Chicago
+ac9cb1	N911ZR	L	1	Bell 407	City Of Chicago
+ac9cb2	N911ZS	L	0	Cessna 172 Skyhawk	Bernalalillo Co. Sheriff
+ac9cb9	N911ZZ	L	1	Aerospatiale As-350 Ecureuil	Bernalillo Co. Sheriff'S Dep
+ac9ce4	N9111G	P	0	Piper Pa-32	Maryland State Police
+ac9e2c	N912AU	L	1	Bell 206 Jetranger	Knox Co. Sheriff
+ac9e2e	N912AW	L	1	Bell 206 Jetranger	Knox Co. Sheriffs Department
+ac9efd	N912KC	L	1	Aerospatiale As-350 Ecureuil	Kern Co. Sheriff
+ac9f21	N912LP	L	1	Bell 206 Jetranger	Lexington Fayette Urban Co.
+ac9f65	N912PG	L	1	Hughes 500	Prince Georges Co. PD
+aca042	N912YC	L	1	Bell 206 Jetranger	Chelan Co. Sheriff
+aca1e8	N913AZ	P	0		Arizona Dept Public Safety
+aca1ef	N913BF	L	0	Mavic 2 Enterp Dual	Miami-Dade Sheriff
+aca240	N913EM	L	0	Matrice 210 V1	Orange Co. Sheriff
+aca266	N913G	L	0	Motorglider	Marshall Soaring Club
+aca2a6	N913JP	L	0		Jefferson Parish Sheriff
+aca2b4	N913KC	L	1	Aerospatiale As-350 Ecureuil	Kern Co. Sheriff
+aca31c	N913PG	L	1	Hughes 500	Prince Georges Co. PD
+aca3f9	N913YC	L	0		Chelan Co. Sheriff
+aca5f0	N914EE	L	0	Titan Tornado Ss	Marshall Aaron L
+aca5f7	N914EM	L	0	Inspire 1	Orange Co. Sheriff
+aca659	N914JK	L	0		Jefferson Parish Sheriff
+aca66b	N914KC	L	0		Kern Co. Sheriff Department
+aca9ae	N915EM	L	0	Inspire 1	Orange Co. Sheriff
+acaa14	N915JP	L	0		Jefferson Parish Sheriff
+acaa22	N915KC	L	0		Kern Co. Sheriff Department
+acaad2	N915SD	L	1	Bell 206 Jetranger	Harris Co. Sheriff
+acadcb	N916JP	L	0		Jefferson Parish Sheriff
+acadd9	N916KC	L	0		Kern Co. Sheriff Department
+acae89	N916SD	L	0		Sacramento Sheriff
+acaeb4	N916TX	L	0		Lubbock PD
+acb03d	N91665	L	0		Seward Co. Sheriff
+acb0a9	N91698	L	0		Seward Co. Sheriff
+acb152	N917GR	L	0		Gila River PD
+acb1ef	N917NY	L	0		New York City PD
+acb1f5	N917PD	L	1	Bell 429 Globalranger	New York City PD
+acb245	N917SJ	L	1	Bell 206 Jetranger	San Juan Co. Sheriff Dept
+acb3c4	N9175S	L	0	Piper Pa-24 Comanche	Marshall Adam A
+acb47b	N918AZ	L	0		Salt River PD
+acb496	N918CA	P	0	Beech 200 Super King Air	California HP
+acb4d3	N918EM	L	0	Mavic Pro	Orange Co. Sheriff
+acb509	N918GR	L	0	Matrice 600 Pro	Gila River PD
+acb5a6	N918NY	L	0		New York City PD
+acb5ac	N918PD	L	1	Bell 429 Globalranger	New York City PD
+acb603	N918SR	L	0		Salt River PD
+acb82d	N919AU	L	1	Bell 206 Jetranger	Knox Co. Sheriff
+acb82f	N919AW	L	1	Bell 206 Jetranger	Knox Co. Sheriffs Depart
+acb95d	N919NY	L	0		New York City PD
+acb963	N919PD	L	1	Bell 429 Globalranger	New York City PD
+acbc06	N92CC	L	0	Cessna 172 Skyhawk	Canadian Co Sheriff
+acbca7	N92JP	L	1	Bell 407	City Of Jacksonville Sheriff
+acbd1a	N92PD	L	1	B06	Clark Co. Sheriff
+acbe42	N920AZ	P	0		Arizona Dept Public Safety
+acbeaa	N920FC	L	1	Hughes 500	Fresno Co. Sheriff Dept
+acbee7	N920HP	P	0		Kansas HP
+acbf6d	N920NY	L	0		New York City PD
+acbf73	N920PD	L	1	Bell 429 Globalranger	New York City PD
+acc1f9	N921AZ	P	0	Beech 200 Super King Air	Arizona Dept Public Safety
+acc29e	N921HP	P	0		Dept Of California HP
+acc32a	N921PD	L	1	B412	City Of New York PD
+acc6e1	N922PD	L	1	Bell 412	City Of New York PD
+acc736	N922SP	P	1	Bell 407	Georgia Dept Public Safety
+acc955	N923AF	L	0	Pilatus Pc-12	Kamm Investments Llc
+acc9bf	N923EM	L	0	Mavic Pro	Orange Co. Sheriff
+acca0c	N923HP	P	0		Dept Of California HP
+accae3	N923SD	L	0	Cessna T206 Turbo Stationair	Fresno Co. Sheriffs Departme
+accaed	N923SP	P	0		Georgia SP
+accd76	N924EM	L	0	Matrice 210 V1	Orange Co. Sheriff
+accea4	N924SP	P	1	Bell 429 Globalranger	Georgia Dept Of Public Safet
+accf62	N9240D	L	1	Bell 206 Jetranger	Mclennan Co. Sheriff
+accf6b	N9240N	L	1	Bell 206 Jetranger	Mc Lennan Co. Sheriffs Dept
+accf6c	N9240P	L	1	Bell 206 Jetranger	Mclennan Co. Sheriff'S Depar
+acd0c9	N925AM	L	0		Marshall Space Flight Center
+acd0d5	N925AZ	L	1	Bell 206 Jetranger	Pinal Co. Sheriff
+acd163	N925GR	L	0		Gila River PD
+acd25b	N925SP	P	1	Bell 407	Georgia Dept Public Safety
+acd51a	N926GR	L	0		Gila River PD
+acd89b	N927EM	L	0	Mavic 2 Enterprise	Orange Co. Sheriff
+acd9c9	N927SP	P	1	Bell 206 Jetranger	Georgia Dept Public Safety
+acdc52	N928EM	L	0	Indago	Orange Co. Sheriff
+acdd80	N928SP	P	0		Georgia SP
+ace098	N929LE	L	0		Collier Co. Sheriff
+ace0d3	N929NP	L	1	Aerospatiale As-350 Ecureuil	Metro Nashville Police
+ace158	N929TX	P	1	As50	Texas Dept Public Safety
+ace471	N93MP	P	1	Bell 407	Missouri State HP
+ace480	N93ND	L	1	Bell Uh-1 Huey	Stratford PD
+ace5c1	N930AZ	P	0		Arizona Dept Public Safety
+ace5c5	N930BC	L	1	Bell 206 Jetranger	Beaufort Co. Sheriff
+ace619	N930EM	L	0	Mavic Mini	Orange Co. Sheriff
+ace666	N930HP	P	0		Kansas HP
+ace6f2	N930PD	L	1	Bell 206 Jetranger	Cullman PD
+ace747	N930SP	P	1	Bell 407	Georgia Dept Public Safety
+ace978	N931AZ	P	0		Arizona Dept Of Public Safet
+ace9d0	N931EM	L	0	Cessna 182 Skylane	Clackamas Co. Sheriff
+acea1d	N931HP	P	0		Dept Of California HP
+acea4d	N931KM	L	0		Clackamas Co. Sheriff
+aceafe	N931SP	P	0		Illinois State Police
+aceb15	N931TM	L	0		Clackamas Co. Sheriff
+acf3f2	N93354	L	0	Cessna T210 Turbo Centurion	Utah Co. Sheriff
+acf8f9	N935HP	P	0		Dept Of California HP
+acfeef	N9364Z	L	0		Ocean View PD
+ad001a	N937EM	L	0	Mavic 2 Enterp Dual	Orange Co. Sheriff
+ad03d1	N938EM	L	0	Mavic 2 Enterprise	Orange Co. Sheriff
+ad05c6	N9380N	P	0	Cessna 185 Skywagon	Alaska Dept Public Safety
+ad0b03	N94CB	L	0	Revo	Pough Marshall D
+ad0bf0	N94MP	P	0	Cessna T182 Turbo Skylane	Missouri State HP
+ad0d40	N940AZ	P	0		Arizona Dept Public Safety
+ad0de5	N940HP	P	0	Cessna  206 Stationair	Kansas HP
+ad0ec6	N940SP	P	0		Georgia Dept Of Public Safet
+ad10f7	N941AZ	P	0		Arizona Dept Of Public Safet
+ad121a	N941NQ	L	0		Charlotte Co. Sheriff
+ad18bd	N943EM	L	0	Mavic Mini 2	Orange Co. Sheriff
+ad18d5	N943FL	L	0	Cessna 680 Citation Latitude	Florida Dept Law Enforcement
+ad19e0	N943SC	L	1	Bell 206 Jetranger	Spalding Co. Sheriff
+ad1d97	N944SC	L	1	Bell 206 Jetranger	Spalding Co. Sheriff
+ad1ebe	N94423	L	0	Air Products F-1 Aircoupe	Marshall Jerry D
+ad1f3c	N9446P	L	0	Cessna T206 Turbo Stationair	Pierce Co. Sheriffs Departme
+ad202b	N945EM	L	0	Mavic Mini 2	Orange Co. Sheriff
+ad2266	N9452N	P	0	Cessna 185 Skywagon	Alaska Dept Public Safety
+ad226e	N9452W	L	0	Piper Pa-28-201T/235/236	Marshall Duane C
+ad22db	N94550	L	1	Bell 206 Jetranger	Oconee Co. Sheriff'S Dept
+ad23e2	N946EM	L	0	Mavic Mini 2	Orange Co. Sheriff
+ad2505	N946SC	L	1	Uh1	Spalding Co. Sheriff
+ad2799	N947EM	L	0	Mavic Mini 2	Orange Co. Sheriff
+ad2c7e	N948SP	P	0	Daher Kodiak 100	State Of New York
+ad312c	N94911	L	0	Taylorcraft Bc/Bf/Bl	Marshall Kris
+ad3289	N95CJ	L	0	Beech 95 Travel Air	Simmons Marshall
+ad336f	N95MP	P	1	Bell 407	Missouri State HP Aircraft D
+ad337e	N95ND	L	1	Bell 206 Jetranger	New Milford PD
+ad34bf	N950AZ	P	0		Arizona Dept Of Public Safet
+ad3564	N950HP	P	0	Cessna  206 Stationair	Kansas HP
+ad3574	N950JE	L	0		Co. Of Los Angeles Sheriffs 
+ad35bc	N950MB	L	0	Beech 200 Super King Air	Los Angeles Co. Sheriffs Dep
+ad3645	N950SP	P	0		New York State Police
+ad3860	N951AB	L	0		Los Angeles Co. Sheriffs Dep
+ad3876	N951AZ	P	0		Arizone Dept Of Public Safet
+ad389e	N951CP	L	1	Hughes 500	City Of Cleveland
+ad395a	N951LB	L	1	Aerospatiale As-332 Super Puma	Co. Of Los Angeles
+ad39e3	N951RP	L	1	Hughes 500	City Of Riverside
+ad3b60	N95145	L	0	Taylorcraft Bc/Bf/Bl	Carndall Marshall D
+ad3be3	N9518W	L	0	Piper Pa-28-140/150/160/180	Marshall Christopher
+ad3c55	N952CP	P	1	Hughes 500	City Of Cleveland
+ad3ce5	N952JH	L	1	Aerospatiale As-332 Super Puma	Co. Of Los Angeles
+ad416a	N953SP	P	0		New York State Police
+ad43c3	N954CP	L	0		City Of Cleveland PD
+ad447e	N954LA	L	1	Aerospatiale As-350 Ecureuil	Co. Of Los Angeles
+ad46fc	N9548J	L	0	Piper Pa-28-140/150/160/180	Mulder Timothy D
+ad4746	N955AM	L	0		Marshall Space Flight Center
+ad4cb0	N956TX	P	0	Cessna 208 Caravan	Texas Dept Public Safety
+ad4e96	N9569T	L	0	Cessna 201 Centurion	Thomas Richard E
+ad535a	N958LA	L	1	Aerospatiale As-350 Ecureuil	Co. Of Los Angeles
+ad53f3	N958SD	L	0		Chautauqua Co. Sheriff Offic
+ad57ae	N959SH	L	0		Salina Co. Sheriffs Dept
+ad57b4	N959SP	P	0	Daher Kodiak 100	State Of New York
+ad5b8f	N96U	L	0	Pitts S-1 Special	Ekstrand Marshall C
+ad5cae	N960FL	L	0		Florida Dept Law Enforcement
+ad5ce3	N960HP	P	0		Kansas HP
+ad5daa	N960RN	L	0	Gippsaero Ga-8 Airvan	Orange Co. Sheriffs Departme
+ad5ff5	N961AZ	P	0		Arizona Dept Of Public Safet
+ad6083	N961GR	L	0		Gila River PD
+ad6171	N961SD	L	1	Aerospatiale As-350 Ecureuil	Co. Of Los Angeles Sheriffs 
+ad6411	N962F	L	0	Piper Pa-32R-300/301/301T	Marshall Steven A
+ad643a	N962GR	L	0		Gila River PD
+ad648f	N962LA	L	1	Aerospatiale As-350 Ecureuil	Co. Of Los Angeles
+ad670d	N9628J	L	0	Piper Pa-28-140/150/160/180	Marshall Air Llc
+ad67f1	N963GR	L	0	Mavic Pro	Gila River PD
+ad68df	N963SD	L	1	Aerospatiale As-350 Ecureuil	Co. Of Los Angeles
+ad7057	N965SP	P	1	B429	Louisiana State Police
+ad723f	N9658X	L	0	Cessna R182 Skylane Rg	Kings Co. Sheriffs Dept
+ad740e	N966SP	P	0		Louisiana State Police
+ad773b	N967MA	L	0	Zenair Ch-701 Stol	Marshall Arbo Llc
+ad7ad4	N968KW	L	0		Sergeant Jeff Girgle C/O El 
+ad7b9d	N968TX	P	0	Cessna 208 Caravan	Texas Dept Public Safety
+ad7f28	N969SC	L	0		St Charles Parish Sheriff
+ad81b0	N97E	L	0	Cessna T210 Turbo Centurion	Kern Co. Sheriffs Department
+ad8210	N97HW	L	0	Sa75	Marshall Robert W
+ad842d	N970FL	L	0		Florida Dept Law Enforcement
+ad8462	N970HP	P	0		Kansas HP
+ad84c6	N970MP	P	0		Missouri State HP
+ad8774	N971AZ	P	0		Arizona Dept Of Public Safet
+ad88fa	N971SP	P	0	C82S	Illinois State Police
+ad8bb2	N972GJ	L	0	C182	Polk Co. Sheriff
+ad933e	N974HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+ad9644	N975AM	L	0		Marshall Space Flight Center
+ad96f5	N975HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+ad989b	N9750L	P	0	Cessna 172 Skyhawk	Louisiana Dept Public Safety
+ad9aac	N976HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+ad9c91	N9762D	L	0	Piper Pa-22	Marshall Marcus D
+ad9db2	N977AM	L	0		Marshall Space Flight Center
+ad9e9c	N977KW	L	0		Sergeant Jeff Girgle C/O El 
+ad9ec5	N977MM	L	0		Michael Marshall
+ad9f44	N977SP	P	0		Illinois State Police
+ada05c	N9772Z	L	0	Beech 18 Expetitor	City Of Marshall
+ada169	N978AM	L	0		Marshall Space Flight Center
+ada21a	N978HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+ada5d1	N979HP	P	1	Aerospatiale As-350 Ecureuil	California HP Office Of Air 
+adab76	N980DG	L	0		Aaron Marshall
+adab85	N980DX	L	0		Aaron Marshall
+adacb8	N980SD	L	1	Bell 206 Jetranger	Marshall Co. Sheriff Office
+adaee5	N981AK	P	0	Cessna T206 Turbo Stationair	State Of Alaska
+adaef3	N981AZ	P	0		Arizona Dept Of Public Safet
+adaf98	N981HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adb34f	N982HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adb64c	N983AC	L	0		Alameda Co. Sheriff
+adb706	N983HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adbabd	N984HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adbe74	N985HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adc22b	N986HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adc309	N986SL	L	0		Polk Co. Sheriff
+adc79e	N98708	L	0	Cessna 172 Skyhawk	Madera Co. Sheriff
+adc999	N988HP	P	1	Aerospatiale As-350 Ecureuil	California HP
+adca7a	N988SP	P	0	Daher Kodiak 100	State Of New York
+add20a	N99TY	L	0	Sr2	Ashwell Marshall Page
+add2bb	N990AZ	L	0	Mavic 2 Enterprise	Salt River PD
+add30a	N990EC	L	0		Etowah Co. Sheriff
+add3ec	N990PD	L	0	Mavic Pro	Salt River PD
+add41d	N990RC	L	0		Riverside Co. Sheriffs
+add437	N990SD	L	0		Riverside Co. Sheriffs Depar
+add476	N990US	L	0	Inspire 1	Salt River PD
+add672	N991AZ	P	0		Arizona Dept Of Public Safet
+add6c1	N991EC	L	0		Etowah Co. Sheriff
+add775	N991MH	P	1	Bell 407	Georgia Dept Public Safety
+add7a3	N991PD	L	0		Oakland Co. PD
+add7f8	N991SP	P	0	C82S	Illinois State Police
+adda78	N992EC	L	0		Etowah Co. Sheriff
+addb8b	N992RC	L	0		Riverside Co. Sheriffs
+addba5	N992SD	L	1	Aerospatiale As-350 Ecureuil	Co. Of Riverside
+addf42	N993RC	L	0		Riverside Co. Sheriffs
+ade102	N9936R	L	0	Beech 35 Bonanza	Marshall Robert M
+ade2c8	N994PD	L	0		Suffolk Co. PD
+ade2d5	N994PS	P	0		Mississippi Dept Of Public S
+ade2f9	N994RC	L	0		Riverside Co. Sheriffs
+ade6be	N995RS	L	0		Riverside Co. Sheriffs
+ade8ae	N9958H	L	0	Cessna R182 Skylane Rg	City Of Albuquerque
+ade930	N996CS	P	0	Cessna T206 Turbo Stationair	Iowa SP
+adea67	N996RC	L	0		Riverside Co. Sheriff'S
+adea75	N996RS	L	1	Aerospatiale As-350 Ecureuil	Riverside Co. Sheriffs Depar
+adf1a4	N998PD	L	0	Matrice 600	City Of Maricopa PD
+adf38d	N9986H	L	0	Cessna R182 Skylane Rg	Kirkman Todd A
+adf5a6	N999SD	L	0		Riverside Co. Sheriffs Depar
