@@ -1,5 +1,5 @@
-   {
-     "version": "1.9",
-     "bin": "vixvor-bridge-1.9.bin",
-     "notes": "Prueba de OTA"
-   }
+{
+  "version": "2.3",
+  "bin": "vixvor-bridge-2.3.bin",
+  "notes": "Firmware VixVor Key 2.3"
+}
